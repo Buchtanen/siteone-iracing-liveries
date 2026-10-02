@@ -1,0 +1,25 @@
+SITEONE RACING - GT3 PREVIEW PACK
+
+Obsah: český 13stránkový katalog PDF a šest samostatných studiových PNG.
+BMW M4 GT3 EVO, Ford Mustang GT3, Porsche 911 GT3 R (992): Dark + Light.
+
+Kolekce Trading Paints:
+https://www.tradingpaints.com/collections/view/356562/SiteOne-Racing
+Laky, materiálové mapy a pracovní PSD:
+https://github.com/Buchtanen/siteone-iracing-liveries
+
+Produkce vizualizací: vestavěné imagegen, překreslení podle skutečných
+referenčních pohledů z iRacing Paint Shopu. Jde o studiové ilustrace;
+přesnou herní podobu určují soubory TGA a MIP. Samotné herní textury
+nebyly při tvorbě katalogu nahrazeny těmito ilustracemi.
+
+Shrnutí zadání pro ilustrace (nikoli doslovný přepis jednotlivých promptů):
+Věrně zachovat model a livery referenčního auta. Celý vůz v předním
+tříčtvrtečním pohledu mírně shora, příď vpravo. Prémiové grafitové/stříbrné
+studio, gradientní pozadí, jemný červený horizont, lesklá podlaha.
+Velký název modelu za vozem, značka nahoře, SiteOne.cz / RACING vlevo,
+Dark/Light Edition dole. Zachovat červená zrcátka, jedničku s patkou,
+pattern, lemy a branding podle skutečného příslušného laku. Claim:
+Design. Development. Digital transformation.
+BMW: M4 GT3; Ford: MUSTANG GT3; Porsche: 911 GT3 R (992).
+Tmavá a světlá varianta čerpají z vlastního referenčního pohledu.
