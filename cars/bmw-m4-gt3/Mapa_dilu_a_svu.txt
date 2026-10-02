@@ -1,0 +1,38 @@
+BMW M4 GT3 – mapa dílů a návazností
+
+Oficiální PSD z 132_template_M4GT3.zip; původní souřadnice 2048 × 2048. Čísla jsou identifikátory UV oblastí, nikoliv PSD vrstev.
+
+Barevná diagnostika rozlišila přední díly, oba boky, střechu, záď a křídlo na modelu BMW M4 GT3 EVO v iRacing. Masky pocházejí ze zelených hran wireframu. Drobné mezery obrysů u hlavního boku, křídla a levého zadního výdechu byly uzavřeny podle jejich viditelných hran; tyto oblasti mají vlastní ID 301, 302 a 303. Dilatace masek vytváří malý přesah barvy mimo UV pro potlačení světlých švů. Pattern se vkládá pouze jako celé jedničky dovnitř zmenšené masky.
+
+Původní karbon a hardware jsou zachované samostatnou vrstvou. Generovaný obraz karoserie ani falešná UV mapa nejsou použity. Křivky jsou vykreslené s šestinásobným převzorkováním; výsledná textura pro hru musí být rastrová.
+
+S1 | UV 122, 98
+Kapota / přední nárazník. Nos kapoty míří v UV doleva; střední osa je y=1310. Grafika obou ramen je párovaná kolem této osy.
+
+S2 | UV 122, 104, 166, 84, 182
+Kapota, horní oblouky předních blatníků a svislé vratné plochy jsou oddělené UV díly. Každý má vlastní masku, linky končí uvnitř svého dílu.
+
+S3 | UV 301, 150
+Horní a spodní boční ostrov v UV. Horní vyžaduje otočení textu a jedniček o 180 stupňů, spodní je bez otočení. Párování grafiky používá osu y=1310, nikoliv střed obrázku. Výřezy obou ostrovů se mírně liší.
+
+S4 | UV 301, 150, 104, 166
+Přední boky / oblouky kol. Grafika předního oblouku sleduje jeho obvod; reklamní panel leží na plné ploše dveří. Žaluzie jsou samostatné očíslované masky.
+
+S5 | UV 132, 130, 129
+Střecha / čelní reklamní pás / zadní kryt. Střešní jedničky jsou čitelné při pohledu od přídě; kapota používá tutéž křivku s patkou. Text reklamního pásu má vlastní masku.
+
+S6 | UV 129, 128, 131, 126
+Zadní kryt, úzká lišta, plocha pod křídlem a zadní nárazník jsou samostatné UV oblasti. Zadní logo je otočené v UV o 90 stupňů, čitelné zezadu.
+
+S7 | UV 302, 37, 39
+Hlavní křídlo má horní i spodní povrch ve společném UV ostrovu. Horní logo je v pásu y=350..406; spodní v y=512..560. Bočnice 37 má jedničku otočenou o 180 stupňů, bočnice 39 bez otočení.
+
+S8 | UV 3, 4, 2, 187, 192
+Zrcátka a aerodynamické díly. Zrcátka jsou červená, obvodové linky jsou oříznuté lokálními maskami. Identifikace 187/192 jako spodních zadních ploch je pracovní; barva je záměrně omezena na tenký vnitřní obvod.
+
+S9 | UV 301, 150, 72, 303
+Přední otvory chlazení zadních brzd leží u výřezů 86/184 uvnitř hlavních boků. Zadní výdech má samostatnou karbonovou vložku 72, ověřenou souřadnicovou diagnostikou zezadu; levý výdech je samostatný ostrov 303. Původní zelený obrys má drobnou mezeru; uzavřena při extrakci s dilatací 9 px, interiér 27 818 px, následná obnova okraje. Poloha ověřena celoplošnou souřadnicovou diagnostikou. Levý a pravý obrys se překrývají z 98,52 % po transformaci x′=x, y′=2621−y. Oba lemy používají tutéž křivku v této transformaci, nikoliv dvě samostatně odhadnuté hrany. Lem je nad vrstvou karbonu, otvor zůstává tmavý.
+
+S10 | UV 98, 137, 145
+Ledviny: souvislý červený lem bez černé/bílé obrysové linky zasahuje až k vnitřní hraně zkosení v nárazníku 98 kolem skutečných výřezů 137/145. Ověřeno na předním tříčtvrtečním pohledu.
+

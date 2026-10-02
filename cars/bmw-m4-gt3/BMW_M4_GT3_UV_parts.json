@@ -1,0 +1,674 @@
+[
+  {
+    "name": "Hood",
+    "wire_island": 122,
+    "bounds": [
+      250,
+      1011,
+      796,
+      1609
+    ],
+    "mask": "Hood.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Front bumper",
+    "wire_island": 98,
+    "bounds": [
+      14,
+      863,
+      246,
+      1757
+    ],
+    "mask": "Front_bumper.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Roof",
+    "wire_island": 132,
+    "bounds": [
+      1005,
+      1108,
+      1524,
+      1512
+    ],
+    "mask": "Roof.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Windshield banner",
+    "wire_island": 130,
+    "bounds": [
+      895,
+      1091,
+      1001,
+      1530
+    ],
+    "mask": "Windshield_banner.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side A upper UV",
+    "wire_island": 301,
+    "bounds": [
+      770,
+      610,
+      1904,
+      1123
+    ],
+    "mask": "Side_A_upper_UV.png",
+    "source": "Official green wire contour; gap repaired and coordinate probe verified"
+  },
+  {
+    "name": "Side B lower UV",
+    "wire_island": 150,
+    "bounds": [
+      679,
+      1499,
+      1907,
+      2013
+    ],
+    "mask": "Side_B_lower_UV.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Front fender A upper arch",
+    "wire_island": 104,
+    "bounds": [
+      322,
+      909,
+      829,
+      1042
+    ],
+    "mask": "Front_fender_A_upper_arch.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Front fender B upper arch",
+    "wire_island": 166,
+    "bounds": [
+      322,
+      1579,
+      829,
+      1711
+    ],
+    "mask": "Front_fender_B_upper_arch.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Front fender A lower return",
+    "wire_island": 84,
+    "bounds": [
+      501,
+      714,
+      659,
+      876
+    ],
+    "mask": "Front_fender_A_lower_return.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Front fender B lower return",
+    "wire_island": 182,
+    "bounds": [
+      508,
+      1721,
+      666,
+      1883
+    ],
+    "mask": "Front_fender_B_lower_return.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Front fender A grille",
+    "wire_island": 106,
+    "bounds": [
+      438,
+      944,
+      616,
+      1015
+    ],
+    "mask": "Front_fender_A_grille.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Front fender B grille",
+    "wire_island": 171,
+    "bounds": [
+      438,
+      1605,
+      616,
+      1676
+    ],
+    "mask": "Front_fender_B_grille.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Hood vent A frame",
+    "wire_island": 125,
+    "bounds": [
+      366,
+      1046,
+      656,
+      1236
+    ],
+    "mask": "Hood_vent_A_frame.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Hood vent B frame",
+    "wire_island": 146,
+    "bounds": [
+      366,
+      1384,
+      656,
+      1574
+    ],
+    "mask": "Hood_vent_B_frame.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Hood vent A grille",
+    "wire_island": 133,
+    "bounds": [
+      383,
+      1123,
+      528,
+      1208
+    ],
+    "mask": "Hood_vent_A_grille.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Hood vent B grille",
+    "wire_island": 147,
+    "bounds": [
+      384,
+      1412,
+      529,
+      1497
+    ],
+    "mask": "Hood_vent_B_grille.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Rear deck forward",
+    "wire_island": 129,
+    "bounds": [
+      1511,
+      1089,
+      1701,
+      1532
+    ],
+    "mask": "Rear_deck_forward.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Rear deck lip",
+    "wire_island": 128,
+    "bounds": [
+      1709,
+      1087,
+      1785,
+      1533
+    ],
+    "mask": "Rear_deck_lip.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Rear boot face",
+    "wire_island": 131,
+    "bounds": [
+      1794,
+      1104,
+      1889,
+      1516
+    ],
+    "mask": "Rear_boot_face.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Rear bumper",
+    "wire_island": 126,
+    "bounds": [
+      1839,
+      1046,
+      1985,
+      1575
+    ],
+    "mask": "Rear_bumper.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Rear wing main plane",
+    "wire_island": 302,
+    "bounds": [
+      1383,
+      314,
+      2040,
+      595
+    ],
+    "mask": "Rear_wing_main_plane.png",
+    "source": "Official green wire contour; gap repaired and coordinate probe verified"
+  },
+  {
+    "name": "Rear wing endplate A",
+    "wire_island": 37,
+    "bounds": [
+      1656,
+      205,
+      1811,
+      301
+    ],
+    "mask": "Rear_wing_endplate_A.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Rear wing endplate B",
+    "wire_island": 39,
+    "bounds": [
+      1488,
+      209,
+      1643,
+      305
+    ],
+    "mask": "Rear_wing_endplate_B.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Mirror A",
+    "wire_island": 4,
+    "bounds": [
+      456,
+      12,
+      540,
+      96
+    ],
+    "mask": "Mirror_A.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Mirror B",
+    "wire_island": 3,
+    "bounds": [
+      278,
+      12,
+      363,
+      96
+    ],
+    "mask": "Mirror_B.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Front splitter",
+    "wire_island": 2,
+    "bounds": [
+      1269,
+      8,
+      2028,
+      137
+    ],
+    "mask": "Front_splitter.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Rear lower aero A",
+    "wire_island": 187,
+    "bounds": [
+      10,
+      1807,
+      386,
+      1885
+    ],
+    "mask": "Rear_lower_aero_A.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Rear lower aero B",
+    "wire_island": 192,
+    "bounds": [
+      7,
+      1896,
+      382,
+      1974
+    ],
+    "mask": "Rear_lower_aero_B.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side A vent lower",
+    "wire_island": 108,
+    "bounds": [
+      989,
+      955,
+      1167,
+      1008
+    ],
+    "mask": "Side_A_vent_lower.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side A vent upper",
+    "wire_island": 124,
+    "bounds": [
+      981,
+      1021,
+      1162,
+      1071
+    ],
+    "mask": "Side_A_vent_upper.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side B vent lower",
+    "wire_island": 167,
+    "bounds": [
+      965,
+      1583,
+      1082,
+      1684
+    ],
+    "mask": "Side_B_vent_lower.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side B vent upper",
+    "wire_island": 168,
+    "bounds": [
+      1095,
+      1583,
+      1213,
+      1684
+    ],
+    "mask": "Side_B_vent_upper.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Rear outlet outer A",
+    "wire_island": 72,
+    "bounds": [
+      1705,
+      610,
+      1954,
+      892
+    ],
+    "mask": "Rear_outlet_outer_A.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Rear outlet outer B",
+    "wire_island": 303,
+    "bounds": [
+      1705,
+      1731,
+      1953,
+      2012
+    ],
+    "mask": "Rear_outlet_outer_B.png",
+    "source": "Official green wire contour; gap repaired and coordinate probe verified"
+  },
+  {
+    "name": "Side A louvre 1",
+    "wire_island": 112,
+    "bounds": [
+      1185,
+      984,
+      1218,
+      1052
+    ],
+    "mask": "Side_A_louvre_1.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side A louvre 2",
+    "wire_island": 113,
+    "bounds": [
+      1207,
+      985,
+      1244,
+      1051
+    ],
+    "mask": "Side_A_louvre_2.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side A louvre 3",
+    "wire_island": 114,
+    "bounds": [
+      1229,
+      984,
+      1263,
+      1050
+    ],
+    "mask": "Side_A_louvre_3.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side A louvre 4",
+    "wire_island": 115,
+    "bounds": [
+      1251,
+      984,
+      1283,
+      1049
+    ],
+    "mask": "Side_A_louvre_4.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side A louvre 5",
+    "wire_island": 116,
+    "bounds": [
+      1271,
+      984,
+      1303,
+      1048
+    ],
+    "mask": "Side_A_louvre_5.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side A louvre 6",
+    "wire_island": 117,
+    "bounds": [
+      1292,
+      984,
+      1325,
+      1047
+    ],
+    "mask": "Side_A_louvre_6.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side A louvre 7",
+    "wire_island": 118,
+    "bounds": [
+      1313,
+      984,
+      1348,
+      1046
+    ],
+    "mask": "Side_A_louvre_7.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side A louvre 8",
+    "wire_island": 119,
+    "bounds": [
+      1333,
+      984,
+      1368,
+      1046
+    ],
+    "mask": "Side_A_louvre_8.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side A louvre 9",
+    "wire_island": 120,
+    "bounds": [
+      1353,
+      984,
+      1388,
+      1045
+    ],
+    "mask": "Side_A_louvre_9.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side A louvre 10",
+    "wire_island": 121,
+    "bounds": [
+      1373,
+      984,
+      1407,
+      1044
+    ],
+    "mask": "Side_A_louvre_10.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side B louvre 1",
+    "wire_island": 154,
+    "bounds": [
+      1223,
+      1566,
+      1257,
+      1634
+    ],
+    "mask": "Side_B_louvre_1.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side B louvre 2",
+    "wire_island": 155,
+    "bounds": [
+      1245,
+      1567,
+      1282,
+      1633
+    ],
+    "mask": "Side_B_louvre_2.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side B louvre 3",
+    "wire_island": 156,
+    "bounds": [
+      1267,
+      1568,
+      1301,
+      1634
+    ],
+    "mask": "Side_B_louvre_3.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side B louvre 4",
+    "wire_island": 157,
+    "bounds": [
+      1289,
+      1569,
+      1322,
+      1634
+    ],
+    "mask": "Side_B_louvre_4.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side B louvre 5",
+    "wire_island": 158,
+    "bounds": [
+      1310,
+      1570,
+      1342,
+      1634
+    ],
+    "mask": "Side_B_louvre_5.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side B louvre 6",
+    "wire_island": 159,
+    "bounds": [
+      1331,
+      1571,
+      1364,
+      1634
+    ],
+    "mask": "Side_B_louvre_6.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side B louvre 7",
+    "wire_island": 160,
+    "bounds": [
+      1352,
+      1572,
+      1387,
+      1634
+    ],
+    "mask": "Side_B_louvre_7.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side B louvre 8",
+    "wire_island": 161,
+    "bounds": [
+      1371,
+      1573,
+      1406,
+      1634
+    ],
+    "mask": "Side_B_louvre_8.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side B louvre 9",
+    "wire_island": 162,
+    "bounds": [
+      1392,
+      1573,
+      1427,
+      1634
+    ],
+    "mask": "Side_B_louvre_9.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side B louvre 10",
+    "wire_island": 163,
+    "bounds": [
+      1412,
+      1574,
+      1446,
+      1635
+    ],
+    "mask": "Side_B_louvre_10.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side B louvre 11",
+    "wire_island": 164,
+    "bounds": [
+      1433,
+      1574,
+      1464,
+      1635
+    ],
+    "mask": "Side_B_louvre_11.png",
+    "source": "Official green wire contour"
+  },
+  {
+    "name": "Side B louvre 12",
+    "wire_island": 165,
+    "bounds": [
+      1451,
+      1574,
+      1483,
+      1635
+    ],
+    "mask": "Side_B_louvre_12.png",
+    "source": "Official green wire contour"
+  }
+]

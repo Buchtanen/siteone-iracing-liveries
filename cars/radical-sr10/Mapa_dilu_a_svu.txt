@@ -1,0 +1,50 @@
+RADICAL SR10 — MAPA DÍLŮ A NÁVAZNOSTÍ
+
+Souřadnice jsou v původní šabloně 2048 × 2048. Orientace obrázku není orientace dílu na autě. Čísla v atlasu označují propojené UV oblasti, nikoliv pořadí PSD vrstev.
+
+Masky: zelené obvodové hrany z originálního wireframu, s rezervou 4 px mimo UV hranu proti světlým švům. Pattern se umisťuje pouze jako celé jedničky uvnitř erodované masky. Oblast 44 tvoří propojené okolí kokpitu a oba horní boky; nerozdělovat podle pouhé blízkosti ostrovů.
+
+Orientace: pravý boční panel 22 a panel 8 otočené o 180°; jejich levé protějšky 116/137 bez otočení. Příď čitelná zepředu (270° v atlasu). Každá jednička používá shodnou křivku včetně patky.
+
+S1 | UV 68, 67
+Příď / přední okolí kokpitu. Společná osa y=1023,5; dvojice lemů je geometricky zrcadlena.
+Kontrola: wireframe; visible front oblique
+
+S2 | UV 45, 21
+Horní přední blatník / boční lem kola. Samostatné masky; červená linka sleduje lokální lem a nekříží světlomet.
+Kontrola: color probe verified
+
+S3 | UV 45, 49
+Otvor mřížky předního blatníku je vyříznutý z lakované plochy. Mřížka má vlastní tmavou vrstvu.
+Kontrola: official wire cutout
+
+S4 | UV 44, 22
+Horní bok kokpitu / spodní boční panel. Podél hrany končí stříbrná plocha; logo je celé na spodním panelu.
+Kontrola: color probe verified
+
+S5 | UV 22, 8
+Boční panel / zadní číselný panel. Mezi nimi je nasávací otvor; text ani pattern přes něj nepřechází.
+Kontrola: color probe verified
+
+S6 | UV 44, 52
+Boční rameno kokpitu / zadní blatník. Pattern tvoří celé samostatné jedničky, které končí před okraji masek.
+Kontrola: Rear and overhead views checked in iRacing; separate panel masks
+
+S7 | UV 66, 52
+Kryt motoru / zadní blatníky. Dvojice odstupňovaných šedých pásů; samostatné masky každé strany.
+Kontrola: Rear and overhead views checked in iRacing; separate panel masks
+
+S8 | UV 52, 43
+Zadní blatníky / zadní čelo. Střední nápis leží jen v plném pásu UV 43 a nezasahuje do středového výřezu.
+Kontrola: Rear and overhead views checked in iRacing; separate panel masks
+
+S9 | UV 130, 39, 114
+Hlavní, nižší a přední plocha dvouprvkového křídla / vnější bočnice. UV 130 zahrnuje horní i spodní povrch: horní je y=1811..1927, ověřeno modrým a žlutým pásem. Logo x=1399..1839, y=1842..1896, otočené 180 stupňů, leží celé na horním povrchu. Jedničky bočnic jsou uvnitř plného dílu nad štěrbinami.
+Kontrola: four-band surface probe checked in overhead view
+
+S10 | UV 65, 50, 108
+Samostatná zvýšená zadní klapka křídla / vnitřní bočnice. UV 65 není spodní strana UV 130. Klapka má jemné červené linky a menší logo zespodu pro pohled zezadu: x=1919..1951, y=859..1189, rotace 90 stupňů.
+Kontrola: rear-facing surface calibrated with four-band color probe
+
+Ověření: barevná a souřadnicová diagnostika v iRacing; oba přední boční pohledy, zadní pohled a pohled shora nastavené uživatelem. Tříbarevná kalibrace rozlišila hlavní plochu křídla 130, samostatnou zvýšenou klapku 65 a zadní karoserii 43. Levá žaluzie 27M má v dodaném wireframu přerušený obrys; maska je odvozena z přesně párované pravé žaluzie 27.
+Detailní revize: UV 44 obsahuje horní ochranný oblouk i sloupky. Střední horní plocha x=966..1042, y=900..1150; nápis je x=990..1015, y=930..1118. Znakové plochy sloupků jsou párové kolem y=1023,5. UV 80 je úzký lem sání za hlavou, ověřen fialovou diagnostickou barvou; jeho dilatace je jen 2 px kvůli sousedním dílům. Černé zapuštěné boky světlé varianty jsou izolované UV 22/116.

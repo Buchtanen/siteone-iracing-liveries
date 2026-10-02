@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "mclaren-570s-gt4",
+    "name": "McLaren 570S GT4",
+    "game_folder": "mclaren570sgt4"
+  },
+  {
+    "slug": "ford-mustang-gt3",
+    "name": "Ford Mustang GT3",
+    "game_folder": "fordmustanggt3"
+  },
+  {
+    "slug": "radical-sr10",
+    "name": "Radical SR10",
+    "game_folder": "radicalsr10"
+  },
+  {
+    "slug": "bmw-m4-gt3",
+    "name": "BMW M4 GT3",
+    "game_folder": "bmwm4gt3"
+  },
+  {
+    "slug": "porsche-992-gt3-r",
+    "name": "Porsche 911 GT3 R (992)",
+    "game_folder": "porsche992rgt3"
+  }
+]

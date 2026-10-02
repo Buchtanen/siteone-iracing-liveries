@@ -1,0 +1,600 @@
+[
+  {
+    "part": "Right body door quarter rocker",
+    "wire_component_id": 24,
+    "bounds": [
+      645,
+      177,
+      2047,
+      747
+    ],
+    "mask": "Right_body_door_quarter_rocker.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Left body door quarter rocker",
+    "wire_component_id": 119,
+    "bounds": [
+      645,
+      1300,
+      2047,
+      1870
+    ],
+    "mask": "Left_body_door_quarter_rocker.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Right front fender",
+    "wire_component_id": 25,
+    "bounds": [
+      11,
+      181,
+      602,
+      568
+    ],
+    "mask": "Right_front_fender.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Left front fender",
+    "wire_component_id": 133,
+    "bounds": [
+      11,
+      1479,
+      602,
+      1866
+    ],
+    "mask": "Left_front_fender.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Right hood shoulder",
+    "wire_component_id": 66,
+    "bounds": [
+      339,
+      602,
+      739,
+      707
+    ],
+    "mask": "Right_hood_shoulder.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Left hood shoulder",
+    "wire_component_id": 121,
+    "bounds": [
+      339,
+      1340,
+      739,
+      1445
+    ],
+    "mask": "Left_hood_shoulder.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Right A pillar lower trim",
+    "wire_component_id": 69,
+    "bounds": [
+      750,
+      609,
+      1022,
+      702
+    ],
+    "mask": "Right_A_pillar_lower_trim.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Left A pillar lower trim",
+    "wire_component_id": 122,
+    "bounds": [
+      750,
+      1345,
+      1022,
+      1438
+    ],
+    "mask": "Left_A_pillar_lower_trim.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Hood",
+    "wire_component_id": 73,
+    "bounds": [
+      343,
+      695,
+      963,
+      1352
+    ],
+    "mask": "Hood.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Hood leading lip",
+    "wire_component_id": 86,
+    "bounds": [
+      290,
+      771,
+      372,
+      1277
+    ],
+    "mask": "Hood_leading_lip.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Hood vent right",
+    "wire_component_id": 77,
+    "bounds": [
+      486,
+      743,
+      784,
+      917
+    ],
+    "mask": "Hood_vent_right.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Hood vent left",
+    "wire_component_id": 102,
+    "bounds": [
+      486,
+      1130,
+      784,
+      1304
+    ],
+    "mask": "Hood_vent_left.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Roof",
+    "wire_component_id": 89,
+    "bounds": [
+      1055,
+      794,
+      1498,
+      1255
+    ],
+    "mask": "Roof.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Windshield banner",
+    "wire_component_id": 82,
+    "bounds": [
+      918,
+      758,
+      1057,
+      1289
+    ],
+    "mask": "Windshield_banner.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Rear deck",
+    "wire_component_id": 80,
+    "bounds": [
+      1488,
+      754,
+      1862,
+      1293
+    ],
+    "mask": "Rear_deck.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Rear fascia",
+    "wire_component_id": 72,
+    "bounds": [
+      1864,
+      664,
+      2038,
+      1383
+    ],
+    "mask": "Rear_fascia.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Front bumper",
+    "wire_component_id": 56,
+    "bounds": [
+      3,
+      516,
+      263,
+      1531
+    ],
+    "mask": "Front_bumper.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Front splitter",
+    "wire_component_id": 70,
+    "bounds": [
+      188,
+      615,
+      421,
+      1432
+    ],
+    "mask": "Front_splitter.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Right rear bumper corner",
+    "wire_component_id": 41,
+    "bounds": [
+      1779,
+      294,
+      2033,
+      506
+    ],
+    "mask": "Right_rear_bumper_corner.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Left rear bumper corner",
+    "wire_component_id": 138,
+    "bounds": [
+      1779,
+      1541,
+      2033,
+      1753
+    ],
+    "mask": "Left_rear_bumper_corner.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Right mirror",
+    "wire_component_id": 63,
+    "bounds": [
+      1129,
+      585,
+      1297,
+      679
+    ],
+    "mask": "Right_mirror.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Left mirror",
+    "wire_component_id": 124,
+    "bounds": [
+      1129,
+      1363,
+      1297,
+      1457
+    ],
+    "mask": "Left_mirror.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Wing endplate right",
+    "wire_component_id": 39,
+    "bounds": [
+      1581,
+      247,
+      1746,
+      343
+    ],
+    "mask": "Wing_endplate_right.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Wing endplate left",
+    "wire_component_id": 153,
+    "bounds": [
+      1581,
+      1704,
+      1746,
+      1800
+    ],
+    "mask": "Wing_endplate_left.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Wing upper surface",
+    "wire_component_id": 169,
+    "bounds": [
+      615,
+      1877,
+      1317,
+      2036
+    ],
+    "mask": "Wing_upper_surface.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Wing lower surface",
+    "wire_component_id": 168,
+    "bounds": [
+      1327,
+      1869,
+      2030,
+      2036
+    ],
+    "mask": "Wing_lower_surface.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Wing support A",
+    "wire_component_id": 2,
+    "bounds": [
+      617,
+      3,
+      1004,
+      85
+    ],
+    "mask": "Wing_support_A.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Wing support B",
+    "wire_component_id": 12,
+    "bounds": [
+      608,
+      91,
+      994,
+      173
+    ],
+    "mask": "Wing_support_B.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Right front aero A",
+    "wire_component_id": 6,
+    "bounds": [
+      58,
+      28,
+      242,
+      191
+    ],
+    "mask": "Right_front_aero_A.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Left front aero A",
+    "wire_component_id": 166,
+    "bounds": [
+      58,
+      1856,
+      242,
+      2019
+    ],
+    "mask": "Left_front_aero_A.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Right front aero B",
+    "wire_component_id": 13,
+    "bounds": [
+      214,
+      111,
+      393,
+      381
+    ],
+    "mask": "Right_front_aero_B.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Left front aero B",
+    "wire_component_id": 151,
+    "bounds": [
+      214,
+      1666,
+      393,
+      1936
+    ],
+    "mask": "Left_front_aero_B.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Right front aero C",
+    "wire_component_id": 16,
+    "bounds": [
+      5,
+      134,
+      212,
+      380
+    ],
+    "mask": "Right_front_aero_C.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Left front aero C",
+    "wire_component_id": 152,
+    "bounds": [
+      5,
+      1667,
+      212,
+      1913
+    ],
+    "mask": "Left_front_aero_C.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Right fender vent inner front",
+    "wire_component_id": 45,
+    "bounds": [
+      440,
+      395,
+      462,
+      472
+    ],
+    "mask": "Right_fender_vent_inner_front.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Left fender vent inner front",
+    "wire_component_id": 146,
+    "bounds": [
+      440,
+      1575,
+      462,
+      1652
+    ],
+    "mask": "Left_fender_vent_inner_front.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Right fender vent inner middle",
+    "wire_component_id": 48,
+    "bounds": [
+      496,
+      405,
+      514,
+      474
+    ],
+    "mask": "Right_fender_vent_inner_middle.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Left fender vent inner middle",
+    "wire_component_id": 144,
+    "bounds": [
+      496,
+      1573,
+      514,
+      1642
+    ],
+    "mask": "Left_fender_vent_inner_middle.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Right fender vent inner rear",
+    "wire_component_id": 46,
+    "bounds": [
+      554,
+      404,
+      580,
+      479
+    ],
+    "mask": "Right_fender_vent_inner_rear.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Left fender vent inner rear",
+    "wire_component_id": 141,
+    "bounds": [
+      554,
+      1568,
+      580,
+      1643
+    ],
+    "mask": "Left_fender_vent_inner_rear.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Right fender vent blade 1",
+    "wire_component_id": 25,
+    "bounds": [
+      163,
+      441,
+      233,
+      508
+    ],
+    "mask": "Right_fender_vent_blade_1.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Left fender vent blade 1",
+    "wire_component_id": 133,
+    "bounds": [
+      163,
+      1540,
+      233,
+      1607
+    ],
+    "mask": "Left_fender_vent_blade_1.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Right fender vent blade 2",
+    "wire_component_id": 25,
+    "bounds": [
+      241,
+      448,
+      320,
+      513
+    ],
+    "mask": "Right_fender_vent_blade_2.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Left fender vent blade 2",
+    "wire_component_id": 133,
+    "bounds": [
+      241,
+      1535,
+      320,
+      1600
+    ],
+    "mask": "Left_fender_vent_blade_2.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Right fender vent blade 3",
+    "wire_component_id": 25,
+    "bounds": [
+      321,
+      443,
+      410,
+      514
+    ],
+    "mask": "Right_fender_vent_blade_3.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  },
+  {
+    "part": "Left fender vent blade 3",
+    "wire_component_id": 133,
+    "bounds": [
+      321,
+      1534,
+      410,
+      1605
+    ],
+    "mask": "Left_fender_vent_blade_3.png",
+    "orientation": "Upper/right side lettering 180 deg; lower/left side 0 deg; hood/roof 270 deg; rear-facing wordmark 90 deg",
+    "mapping_method": "Closed green UV contours in official PSD; isolated mask; 5px UV edge coverage; front and rear diagnostic views in iRacing"
+  }
+]

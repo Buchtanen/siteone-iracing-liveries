@@ -1,0 +1,277 @@
+[
+  {
+    "name": "Hood",
+    "wire_island": 132,
+    "bounds": [
+      189,
+      1017,
+      775,
+      1583
+    ],
+    "mask": "Hood.png"
+  },
+  {
+    "name": "Front fender A",
+    "wire_island": 102,
+    "bounds": [
+      215,
+      739,
+      818,
+      1146
+    ],
+    "mask": "Front_fender_A.png"
+  },
+  {
+    "name": "Front fender B",
+    "wire_island": 189,
+    "bounds": [
+      215,
+      1454,
+      817,
+      1861
+    ],
+    "mask": "Front_fender_B.png"
+  },
+  {
+    "name": "Front bumper",
+    "wire_island": 110,
+    "bounds": [
+      16,
+      802,
+      185,
+      1799
+    ],
+    "mask": "Front_bumper.png"
+  },
+  {
+    "name": "Front intake surround",
+    "wire_island": 67,
+    "bounds": [
+      67,
+      484,
+      749,
+      586
+    ],
+    "mask": "Front_intake_surround.png"
+  },
+  {
+    "name": "Side A",
+    "wire_island": 301,
+    "bounds": [
+      724,
+      576,
+      2015,
+      1049
+    ],
+    "mask": "Side_A.png"
+  },
+  {
+    "name": "Side B",
+    "wire_island": 302,
+    "bounds": [
+      724,
+      1552,
+      2015,
+      2025
+    ],
+    "mask": "Side_B.png"
+  },
+  {
+    "name": "Roof and pillars",
+    "wire_island": 303,
+    "bounds": [
+      678,
+      1041,
+      1484,
+      1560
+    ],
+    "mask": "Roof_and_pillars.png"
+  },
+  {
+    "name": "Rear pillars",
+    "wire_island": 304,
+    "bounds": [
+      1476,
+      1041,
+      2031,
+      1560
+    ],
+    "mask": "Rear_pillars.png"
+  },
+  {
+    "name": "Rear engine deck",
+    "wire_island": 305,
+    "bounds": [
+      1759,
+      1094,
+      2033,
+      1507
+    ],
+    "mask": "Rear_engine_deck.png"
+  },
+  {
+    "name": "Windshield banner",
+    "wire_island": 136,
+    "bounds": [
+      919,
+      1053,
+      1023,
+      1547
+    ],
+    "mask": "Windshield_banner.png"
+  },
+  {
+    "name": "Rear bumper",
+    "wire_island": 23,
+    "bounds": [
+      795,
+      108,
+      2035,
+      372
+    ],
+    "mask": "Rear_bumper.png"
+  },
+  {
+    "name": "Rear lower valance",
+    "wire_island": 40,
+    "bounds": [
+      982,
+      286,
+      1848,
+      400
+    ],
+    "mask": "Rear_lower_valance.png"
+  },
+  {
+    "name": "Rear wing",
+    "wire_island": 3,
+    "bounds": [
+      12,
+      13,
+      738,
+      345
+    ],
+    "mask": "Rear_wing.png"
+  },
+  {
+    "name": "Wing endplate A",
+    "wire_island": 59,
+    "bounds": [
+      1550,
+      412,
+      1719,
+      511
+    ],
+    "mask": "Wing_endplate_A.png"
+  },
+  {
+    "name": "Wing endplate B",
+    "wire_island": 77,
+    "bounds": [
+      1546,
+      533,
+      1716,
+      632
+    ],
+    "mask": "Wing_endplate_B.png"
+  },
+  {
+    "name": "Mirror A",
+    "wire_island": 86,
+    "bounds": [
+      499,
+      598,
+      714,
+      707
+    ],
+    "mask": "Mirror_A.png"
+  },
+  {
+    "name": "Mirror B",
+    "wire_island": 240,
+    "bounds": [
+      498,
+      1894,
+      714,
+      2003
+    ],
+    "mask": "Mirror_B.png"
+  },
+  {
+    "name": "Rear glass banner",
+    "wire_island": 95,
+    "bounds": [
+      1536,
+      677,
+      2030,
+      783
+    ],
+    "mask": "Rear_glass_banner.png"
+  },
+  {
+    "name": "Front canard A",
+    "wire_island": 53,
+    "bounds": [
+      22,
+      385,
+      434,
+      470
+    ],
+    "mask": "Front_canard_A.png"
+  },
+  {
+    "name": "Front canard B",
+    "wire_island": 54,
+    "bounds": [
+      445,
+      385,
+      857,
+      470
+    ],
+    "mask": "Front_canard_B.png"
+  },
+  {
+    "name": "Front louvre 1",
+    "wire_island": 93,
+    "bounds": [
+      233,
+      665,
+      277,
+      686
+    ],
+    "mask": "Front_louvre_1.png"
+  },
+  {
+    "name": "Front louvre 2",
+    "wire_island": 98,
+    "bounds": [
+      236,
+      698,
+      279,
+      716
+    ],
+    "mask": "Front_louvre_2.png"
+  },
+  {
+    "name": "Front louvre 3",
+    "wire_island": 101,
+    "bounds": [
+      236,
+      725,
+      280,
+      746
+    ],
+    "mask": "Front_louvre_3.png"
+  },
+  {
+    "name": "Front louvre 4",
+    "wire_island": 104,
+    "bounds": [
+      236,
+      757,
+      280,
+      787
+    ],
+    "mask": "Front_louvre_4.png"
+  }
+]

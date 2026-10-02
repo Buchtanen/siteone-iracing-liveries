@@ -1,0 +1,122 @@
+[
+  {
+    "id": "S1",
+    "parts": [
+      68,
+      67
+    ],
+    "description_cs": "Příď / přední okolí kokpitu. Společná osa y=1023,5; dvojice lemů je geometricky zrcadlena.",
+    "status": "wireframe; visible front oblique"
+  },
+  {
+    "id": "S2",
+    "parts": [
+      45,
+      21
+    ],
+    "mirror": [
+      96,
+      117
+    ],
+    "description_cs": "Horní přední blatník / boční lem kola. Samostatné masky; červená linka sleduje lokální lem a nekříží světlomet.",
+    "status": "color probe verified"
+  },
+  {
+    "id": "S3",
+    "parts": [
+      45,
+      49
+    ],
+    "mirror": [
+      96,
+      109
+    ],
+    "description_cs": "Otvor mřížky předního blatníku je vyříznutý z lakované plochy. Mřížka má vlastní tmavou vrstvu.",
+    "status": "official wire cutout"
+  },
+  {
+    "id": "S4",
+    "parts": [
+      44,
+      22
+    ],
+    "mirror": [
+      44,
+      116
+    ],
+    "description_cs": "Horní bok kokpitu / spodní boční panel. Podél hrany končí stříbrná plocha; logo je celé na spodním panelu.",
+    "status": "color probe verified"
+  },
+  {
+    "id": "S5",
+    "parts": [
+      22,
+      8
+    ],
+    "mirror": [
+      116,
+      137
+    ],
+    "description_cs": "Boční panel / zadní číselný panel. Mezi nimi je nasávací otvor; text ani pattern přes něj nepřechází.",
+    "status": "color probe verified"
+  },
+  {
+    "id": "S6",
+    "parts": [
+      44,
+      52
+    ],
+    "mirror": [
+      44,
+      86
+    ],
+    "description_cs": "Boční rameno kokpitu / zadní blatník. Pattern tvoří celé samostatné jedničky, které končí před okraji masek.",
+    "status": "Rear and overhead views checked in iRacing; separate panel masks"
+  },
+  {
+    "id": "S7",
+    "parts": [
+      66,
+      52
+    ],
+    "mirror": [
+      66,
+      86
+    ],
+    "description_cs": "Kryt motoru / zadní blatníky. Dvojice odstupňovaných šedých pásů; samostatné masky každé strany.",
+    "status": "Rear and overhead views checked in iRacing; separate panel masks"
+  },
+  {
+    "id": "S8",
+    "parts": [
+      52,
+      43
+    ],
+    "mirror": [
+      86,
+      43
+    ],
+    "description_cs": "Zadní blatníky / zadní čelo. Střední nápis leží jen v plném pásu UV 43 a nezasahuje do středového výřezu.",
+    "status": "Rear and overhead views checked in iRacing; separate panel masks"
+  },
+  {
+    "id": "S9",
+    "parts": [
+      130,
+      39,
+      114
+    ],
+    "description_cs": "Hlavní, nižší a přední plocha dvouprvkového křídla / vnější bočnice. UV 130 zahrnuje horní i spodní povrch: horní je y=1811..1927, ověřeno modrým a žlutým pásem. Logo x=1399..1839, y=1842..1896, otočené 180 stupňů, leží celé na horním povrchu. Jedničky bočnic jsou uvnitř plného dílu nad štěrbinami.",
+    "status": "four-band surface probe checked in overhead view"
+  },
+  {
+    "id": "S10",
+    "parts": [
+      65,
+      50,
+      108
+    ],
+    "description_cs": "Samostatná zvýšená zadní klapka křídla / vnitřní bočnice. UV 65 není spodní strana UV 130. Klapka má jemné červené linky a menší logo zespodu pro pohled zezadu: x=1919..1951, y=859..1189, rotace 90 stupňů.",
+    "status": "rear-facing surface calibrated with four-band color probe"
+  }
+]

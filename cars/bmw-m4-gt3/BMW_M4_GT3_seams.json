@@ -1,0 +1,97 @@
+[
+  {
+    "id": "S1",
+    "parts": [
+      122,
+      98
+    ],
+    "description": "Kapota / přední nárazník. Nos kapoty míří v UV doleva; střední osa je y=1310. Grafika obou ramen je párovaná kolem této osy."
+  },
+  {
+    "id": "S2",
+    "parts": [
+      122,
+      104,
+      166,
+      84,
+      182
+    ],
+    "description": "Kapota, horní oblouky předních blatníků a svislé vratné plochy jsou oddělené UV díly. Každý má vlastní masku, linky končí uvnitř svého dílu."
+  },
+  {
+    "id": "S3",
+    "parts": [
+      301,
+      150
+    ],
+    "description": "Horní a spodní boční ostrov v UV. Horní vyžaduje otočení textu a jedniček o 180 stupňů, spodní je bez otočení. Párování grafiky používá osu y=1310, nikoliv střed obrázku. Výřezy obou ostrovů se mírně liší."
+  },
+  {
+    "id": "S4",
+    "parts": [
+      301,
+      150,
+      104,
+      166
+    ],
+    "description": "Přední boky / oblouky kol. Grafika předního oblouku sleduje jeho obvod; reklamní panel leží na plné ploše dveří. Žaluzie jsou samostatné očíslované masky."
+  },
+  {
+    "id": "S5",
+    "parts": [
+      132,
+      130,
+      129
+    ],
+    "description": "Střecha / čelní reklamní pás / zadní kryt. Střešní jedničky jsou čitelné při pohledu od přídě; kapota používá tutéž křivku s patkou. Text reklamního pásu má vlastní masku."
+  },
+  {
+    "id": "S6",
+    "parts": [
+      129,
+      128,
+      131,
+      126
+    ],
+    "description": "Zadní kryt, úzká lišta, plocha pod křídlem a zadní nárazník jsou samostatné UV oblasti. Zadní logo je otočené v UV o 90 stupňů, čitelné zezadu."
+  },
+  {
+    "id": "S7",
+    "parts": [
+      302,
+      37,
+      39
+    ],
+    "description": "Hlavní křídlo má horní i spodní povrch ve společném UV ostrovu. Horní logo je v pásu y=350..406; spodní v y=512..560. Bočnice 37 má jedničku otočenou o 180 stupňů, bočnice 39 bez otočení."
+  },
+  {
+    "id": "S8",
+    "parts": [
+      3,
+      4,
+      2,
+      187,
+      192
+    ],
+    "description": "Zrcátka a aerodynamické díly. Zrcátka jsou červená, obvodové linky jsou oříznuté lokálními maskami. Identifikace 187/192 jako spodních zadních ploch je pracovní; barva je záměrně omezena na tenký vnitřní obvod."
+  },
+  {
+    "id": "S9",
+    "parts": [
+      301,
+      150,
+      72,
+      303
+    ],
+    "description": "Přední otvory chlazení zadních brzd leží u výřezů 86/184 uvnitř hlavních boků. Zadní výdech má samostatnou karbonovou vložku 72, ověřenou souřadnicovou diagnostikou zezadu; levý výdech je samostatný ostrov 303. Původní zelený obrys má drobnou mezeru; uzavřena při extrakci s dilatací 9 px, interiér 27 818 px, následná obnova okraje. Poloha ověřena celoplošnou souřadnicovou diagnostikou. Levý a pravý obrys se překrývají z 98,52 % po transformaci x′=x, y′=2621−y. Oba lemy používají tutéž křivku v této transformaci, nikoliv dvě samostatně odhadnuté hrany. Lem je nad vrstvou karbonu, otvor zůstává tmavý."
+  },
+  {
+    "id": "S10",
+    "parts": [
+      98,
+      137,
+      145
+    ],
+    "description": "Ledviny: souvislý červený lem bez černé/bílé obrysové linky zasahuje až k vnitřní hraně zkosení v nárazníku 98 kolem skutečných výřezů 137/145. Ověřeno na předním tříčtvrtečním pohledu."
+  }
+]

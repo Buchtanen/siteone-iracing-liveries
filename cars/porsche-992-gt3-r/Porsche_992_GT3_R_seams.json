@@ -1,0 +1,55 @@
+[
+  {
+    "parts": [
+      132,
+      110,
+      102,
+      189
+    ],
+    "note": "Kapota, nárazník a přední blatníky jsou oddělené ostrovy. Kapota míří nosem doleva; osa y=1300.5. Přední lemy končí v masce svého dílu."
+  },
+  {
+    "parts": [
+      301,
+      302,
+      303,
+      304
+    ],
+    "note": "Původní wire ostrov 85 tvoří propojenou karoserii: oba boky, střecha, sloupky. Rozděleno na editační masky podél oken. Horní bok v UV vyžaduje otočení jedniček i textů o 180°, spodní bok bez otočení. Párovací osa y=1300.5."
+  },
+  {
+    "parts": [
+      305
+    ],
+    "note": "Kryt motoru měl otevřený zelený obrys spojený s pozadím. Uzavření dilatací 15px, obnovení 4px lemu; interiér 80577px. Samostatná maska chrání okolní hardware."
+  },
+  {
+    "parts": [
+      106,
+      209
+    ],
+    "note": "Bocni sani: lem podle vyrezu 106, rozsiren o 10px na vnejsi plochu; protejsi dil 209 odpovida po y=2601-y z 97.69 procent. Uzavreny spoj bez mezery."
+  },
+  {
+    "parts": [
+      23,
+      40
+    ],
+    "note": "Zadní nárazník a spodní maska jsou oddělené ostrovy. Zadní pohled ověřen barevnými ID a souřadnicemi; logo je v UV bez otočení."
+  },
+  {
+    "parts": [
+      3,
+      59,
+      77
+    ],
+    "note": "Křídlo obsahuje dvě plochy ve společném ostrovu 3. Bočnice 59 i 77 vyžadují otočení jedniček o 180°; jejich mapování není běžné zrcadlení."
+  },
+  {
+    "parts": [
+      136,
+      303
+    ],
+    "note": "Čelní reklamní pás má samostatný ostrov. Logo i střešní pattern jsou čitelné při pohledu od přídě, v UV otočené o 270°."
+  }
+]

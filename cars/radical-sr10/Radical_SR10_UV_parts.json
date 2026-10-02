@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Nose front face",
+    "wire_island": "2",
+    "bounds": [
+      79,
+      5,
+      781,
+      231
+    ],
+    "mask": "Nose_front_face.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Nose upper deck",
+    "wire_island": "68",
+    "bounds": [
+      8,
+      761,
+      528,
+      1286
+    ],
+    "mask": "Nose_upper_deck.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Forward cockpit surround",
+    "wire_island": "67",
+    "bounds": [
+      511,
+      739,
+      841,
+      1308
+    ],
+    "mask": "Forward_cockpit_surround.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Cockpit forward crosspiece",
+    "wire_island": "70",
+    "bounds": [
+      841,
+      817,
+      935,
+      1230
+    ],
+    "mask": "Cockpit_forward_crosspiece.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Cockpit rim and side shoulders",
+    "wire_island": "44",
+    "bounds": [
+      462,
+      470,
+      1165,
+      1577
+    ],
+    "mask": "Cockpit_rim_and_side_shoulders.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Head intake lip",
+    "wire_island": "80",
+    "bounds": [
+      935,
+      936,
+      945,
+      1111
+    ],
+    "mask": "Head_intake_lip.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Right front wheel arch",
+    "wire_island": "21",
+    "bounds": [
+      111,
+      235,
+      691,
+      449
+    ],
+    "mask": "Right_front_wheel_arch.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Left front wheel arch",
+    "wire_island": "117",
+    "bounds": [
+      111,
+      1598,
+      691,
+      1812
+    ],
+    "mask": "Left_front_wheel_arch.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Right front fender top",
+    "wire_island": "45",
+    "bounds": [
+      16,
+      499,
+      528,
+      774
+    ],
+    "mask": "Right_front_fender_top.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Left front fender top",
+    "wire_island": "96",
+    "bounds": [
+      16,
+      1273,
+      528,
+      1548
+    ],
+    "mask": "Left_front_fender_top.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Right sidepod main",
+    "wire_island": "22",
+    "bounds": [
+      716,
+      255,
+      1226,
+      481
+    ],
+    "mask": "Right_sidepod_main.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Left sidepod main",
+    "wire_island": "116",
+    "bounds": [
+      715,
+      1567,
+      1226,
+      1792
+    ],
+    "mask": "Left_sidepod_main.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Right sidepod rear number panel",
+    "wire_island": "8",
+    "bounds": [
+      884,
+      27,
+      1167,
+      225
+    ],
+    "mask": "Right_sidepod_rear_number_panel.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Left sidepod rear number panel",
+    "wire_island": "137",
+    "bounds": [
+      884,
+      1822,
+      1167,
+      2020
+    ],
+    "mask": "Left_sidepod_rear_number_panel.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Right front corner insert",
+    "wire_island": "31",
+    "bounds": [
+      26,
+      382,
+      266,
+      484
+    ],
+    "mask": "Right_front_corner_insert.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Left front corner insert",
+    "wire_island": "115",
+    "bounds": [
+      26,
+      1563,
+      266,
+      1665
+    ],
+    "mask": "Left_front_corner_insert.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Right front fender grille",
+    "wire_island": "49",
+    "bounds": [
+      289,
+      529,
+      441,
+      599
+    ],
+    "mask": "Right_front_fender_grille.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Left front fender grille",
+    "wire_island": "109",
+    "bounds": [
+      289,
+      1448,
+      441,
+      1518
+    ],
+    "mask": "Left_front_fender_grille.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Right rear fender",
+    "wire_island": "52",
+    "bounds": [
+      1406,
+      577,
+      1736,
+      960
+    ],
+    "mask": "Right_rear_fender.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Left rear fender",
+    "wire_island": "86",
+    "bounds": [
+      1406,
+      1087,
+      1736,
+      1470
+    ],
+    "mask": "Left_rear_fender.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Engine cover",
+    "wire_island": "66",
+    "bounds": [
+      1087,
+      698,
+      1586,
+      1349
+    ],
+    "mask": "Engine_cover.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Rear transom",
+    "wire_island": "43",
+    "bounds": [
+      1698,
+      439,
+      1886,
+      1608
+    ],
+    "mask": "Rear_transom.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Front floor and splitter",
+    "wire_island": "135",
+    "bounds": [
+      7,
+      1758,
+      887,
+      2043
+    ],
+    "mask": "Front_floor_and_splitter.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Wing main plane",
+    "wire_island": "130",
+    "bounds": [
+      1291,
+      1695,
+      1953,
+      1930
+    ],
+    "mask": "Wing_main_plane.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Wing trailing flap",
+    "wire_island": "65",
+    "bounds": [
+      1911,
+      692,
+      2026,
+      1355
+    ],
+    "mask": "Wing_trailing_flap.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Wing outer right",
+    "wire_island": "39",
+    "bounds": [
+      1868,
+      412,
+      2033,
+      517
+    ],
+    "mask": "Wing_outer_right.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Wing inner right",
+    "wire_island": "50",
+    "bounds": [
+      1868,
+      545,
+      2030,
+      644
+    ],
+    "mask": "Wing_inner_right.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Wing inner left",
+    "wire_island": "108",
+    "bounds": [
+      1868,
+      1403,
+      2030,
+      1502
+    ],
+    "mask": "Wing_inner_left.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Wing outer left",
+    "wire_island": "114",
+    "bounds": [
+      1868,
+      1530,
+      2033,
+      1635
+    ],
+    "mask": "Wing_outer_left.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Side sill right",
+    "wire_island": "9",
+    "bounds": [
+      1226,
+      39,
+      2025,
+      99
+    ],
+    "mask": "Side_sill_right.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Side sill left",
+    "wire_island": "141",
+    "bounds": [
+      1226,
+      1948,
+      2025,
+      2008
+    ],
+    "mask": "Side_sill_left.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Rear lower trim",
+    "wire_island": "28",
+    "bounds": [
+      1232,
+      289,
+      2030,
+      413
+    ],
+    "mask": "Rear_lower_trim.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Rear lamp surround right",
+    "wire_island": "10",
+    "bounds": [
+      1252,
+      100,
+      1609,
+      275
+    ],
+    "mask": "Rear_lamp_surround_right.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Rear lamp surround left",
+    "wire_island": "11",
+    "bounds": [
+      1653,
+      100,
+      2009,
+      275
+    ],
+    "mask": "Rear_lamp_surround_left.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Rear lamp upper right",
+    "wire_island": "12",
+    "bounds": [
+      1274,
+      116,
+      1400,
+      180
+    ],
+    "mask": "Rear_lamp_upper_right.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Rear lamp upper left",
+    "wire_island": "13",
+    "bounds": [
+      1862,
+      116,
+      1988,
+      180
+    ],
+    "mask": "Rear_lamp_upper_left.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Rear lamp lower right",
+    "wire_island": "17",
+    "bounds": [
+      1282,
+      170,
+      1382,
+      261
+    ],
+    "mask": "Rear_lamp_lower_right.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Rear lamp lower left",
+    "wire_island": "18",
+    "bounds": [
+      1880,
+      170,
+      1980,
+      261
+    ],
+    "mask": "Rear_lamp_lower_left.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Small separate insert right",
+    "wire_island": "47",
+    "bounds": [
+      1379,
+      512,
+      1431,
+      544
+    ],
+    "mask": "Small_separate_insert_right.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Small separate insert left",
+    "wire_island": "113",
+    "bounds": [
+      1379,
+      1503,
+      1431,
+      1535
+    ],
+    "mask": "Small_separate_insert_left.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Right fender louvre 1",
+    "wire_island": "23",
+    "bounds": [
+      559,
+      267,
+      601,
+      344
+    ],
+    "mask": "Right_fender_louvre_1.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Left fender louvre 1",
+    "wire_island": "132",
+    "bounds": [
+      559,
+      1703,
+      601,
+      1780
+    ],
+    "mask": "Left_fender_louvre_1.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Right fender louvre 2",
+    "wire_island": "24",
+    "bounds": [
+      531,
+      270,
+      573,
+      349
+    ],
+    "mask": "Right_fender_louvre_2.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Left fender louvre 2",
+    "wire_island": "131",
+    "bounds": [
+      531,
+      1698,
+      573,
+      1777
+    ],
+    "mask": "Left_fender_louvre_2.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Right fender louvre 3",
+    "wire_island": "25",
+    "bounds": [
+      501,
+      274,
+      544,
+      353
+    ],
+    "mask": "Right_fender_louvre_3.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Left fender louvre 3",
+    "wire_island": "129",
+    "bounds": [
+      501,
+      1695,
+      544,
+      1773
+    ],
+    "mask": "Left_fender_louvre_3.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Right fender louvre 4",
+    "wire_island": "26",
+    "bounds": [
+      470,
+      279,
+      512,
+      358
+    ],
+    "mask": "Right_fender_louvre_4.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Left fender louvre 4",
+    "wire_island": "128",
+    "bounds": [
+      470,
+      1689,
+      512,
+      1768
+    ],
+    "mask": "Left_fender_louvre_4.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Right fender louvre 5",
+    "wire_island": "27",
+    "bounds": [
+      439,
+      283,
+      481,
+      364
+    ],
+    "mask": "Right_fender_louvre_5.png",
+    "mask_source": "Official green UV contour"
+  },
+  {
+    "name": "Left fender louvre 5",
+    "wire_island": "27M",
+    "bounds": [
+      439,
+      1684,
+      481,
+      1765
+    ],
+    "mask": "Left_fender_louvre_5.png",
+    "mask_source": "Reflected island 27; counterpart green contour has a gap"
+  }
+]
