@@ -1,6 +1,6 @@
 {
   "asset": "helmet",
-  "version": "v4",
+  "version": "v5",
   "files": {
     "approved-design.png": {
       "bytes": 2247816,
@@ -11,16 +11,16 @@
       "sha256": "f0dd681ca4c2413246dee2c306a7354ed1333007781d8093b31304401a0f34f4"
     },
     "paint.tga": {
-      "bytes": 2284865,
-      "sha256": "4521627406473a42fc791a685548c9344be4edf75c64b897844c1220c96cfe0b"
+      "bytes": 2312309,
+      "sha256": "719fa8a576926e7a420faecc653d7bf0c6c84be67c91f3e643dff6fdd613f4d0"
     },
     "preview.png": {
-      "bytes": 1315513,
-      "sha256": "88f137dfdad65f2802a2a8d85ca448277372709a7b7d6735a9c4c68998c1f84d"
+      "bytes": 1356169,
+      "sha256": "ffca911163dd01c6dfb5b84dc5875c7b94a4f46cc5a921d250c0968ebab0f0f9"
     },
     "README.md": {
-      "bytes": 691,
-      "sha256": "77d12f52f456390fee8edbab4d95d53a32968b53a6cc8b8b3c9caa62336413fd"
+      "bytes": 1081,
+      "sha256": "88ab558c00a8b5dce6c55aaf1a0d8e29fe64f1159c28e94ecd38b443d8d94861"
     },
     "rear-seam.json": {
       "bytes": 37230,
@@ -31,16 +31,16 @@
       "sha256": "ed6cbf785b95bdb420cb93ba15263358cf2f5bfc3c3af8e55363ca523d5ba7ff"
     },
     "sources-psd.zip": {
-      "bytes": 39316758,
-      "sha256": "77af26a43b01f4e437acc463f2e658b98890744580c01aa29bafce8b9db48a9d"
+      "bytes": 23318487,
+      "sha256": "171e6db0da067345d43645f66f0f404c18327415615d9f4af459b66b0a5d2e28"
     },
     "wire-map.png": {
       "bytes": 86088,
       "sha256": "c0fdf01f029ff739300ee28750c8d6351ca3334929086a9ddb172ee260075362"
     },
     "wire-overlay.png": {
-      "bytes": 699399,
-      "sha256": "7512d6fc5cb17679e1ab3aebe2ff8546ff58027bb375829de5c9c2369e641670"
+      "bytes": 1480338,
+      "sha256": "1a8de7325d67e3f1837923ff11a6b47b008c5b8007758143479fb7075d985c32"
     }
   }
 }

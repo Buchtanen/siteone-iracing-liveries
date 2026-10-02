@@ -58,10 +58,10 @@ GitHub slouží jako archiv souborů a pracovních zdrojů. Pro běžné týmov�
 
 The current SiteOne.cz / Buchtanen helmet and driver suit use the original iRacing UV templates at 1024 × 1024. Each folder includes the 24-bit RLE TGA, layered working PSD in a source ZIP, approved design image, Wire map, and a seam check.
 
-- **Helmet v4**: [TGA](gear/helmet/paint.tga) · [layered PSD and source files](gear/helmet/sources-psd.zip) · [Wire and seam notes](gear/helmet/README.md)
+- **Helmet v5**: [TGA](gear/helmet/paint.tga) · [layered PSD and source files](gear/helmet/sources-psd.zip) · [Wire and seam notes](gear/helmet/README.md)
 - **Driver suit v3**: [TGA](gear/driver-suit/paint.tga) · [layered PSD and source files](gear/driver-suit/sources-psd.zip) · [Wire and seam notes](gear/driver-suit/README.md)
 
-The driver suit source ZIP uses LZMA compression; open it with 7-Zip or another ZIP/LZMA extractor.
+The helmet and driver suit source ZIPs use LZMA compression; open them with 7-Zip or another ZIP/LZMA extractor.
 
 ## Car paints: Trading Paints Free and Pro
 

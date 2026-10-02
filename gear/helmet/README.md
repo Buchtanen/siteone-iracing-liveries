@@ -1,12 +1,13 @@
-# SiteOne.cz � Buchtanen � helmet (v4)
+# SiteOne.cz / Buchtanen / helmet (v5)
 
-Helma; horn� a zadn� �ev zarovnan� podle skute�n�ho Wire. V4.
+Aktuální textura helmy, vytvořená v původní vrstvené iRacing šabloně. V5 opravuje barvu štítu podle schválené předlohy, ostré bílé a červené plochy pravé části skořepiny a odstranění pozadí u okraje UV dílu. Horní a zadní šev zůstávají zarovnané podle původního Wire.
 
-- [Hotov� textura pro iRacing](paint.tga) � 1024 � 1024, RGB 24 bit, RLE.
-- [Vrstven� pracovn� PSD s podklady](sources-psd.zip).
-- [N�hled skute�n� UV textury](preview.png).
-- [Schv�len� obrazov� p�edloha](approved-design.png) � n�vrh, nikoli textura do hry.
-- [Wire a rozlo�en� d�l�](wire-map.png).
-- [Kontrola spoj�](seam-check.png) � rozvinut� UV kontrola, nikoli 3D render.
+- [Hotová textura pro iRacing](paint.tga) – 1024 × 1024, RGB 24 bit, RLE.
+- [Vrstvené pracovní PSD s podklady](sources-psd.zip) – archiv ZIP/LZMA, otevřít např. v 7-Zip.
+- [Náhled skutečné UV textury](preview.png).
+- [Schválená obrazová předloha](approved-design.png) – vizuální návrh, nikoli textura do hry.
+- [Wire a rozložení dílů](wire-map.png).
+- [Náhled textury s Wire](wire-overlay.png).
+- [Kontrola spojů](seam-check.png) – rozvinutá UV kontrola, nikoli 3D render.
 
-Pracovn� PSD obsahuje vrstvy p�vodn� ofici�ln� �ablony a odd�len� vrstvy grafiky a oprav. Vedle obr�zk� jsou ulo�en� i sou�adnice sp�rovan�ch �v�.
+PSD uchovává všech 80 původních vrstev šablony a samostatné vrstvy grafiky a oprav. Podklady a souřadnice spárovaných švů jsou uložené v archivu. Render v iRacingu je třeba vizuálně ověřit ve hře.
