@@ -1,0 +1,618 @@
+[
+  {
+    "name": "Hood",
+    "wire_island": 154,
+    "bounds": [
+      141,
+      953,
+      538,
+      1459
+    ],
+    "mask": "Hood.png"
+  },
+  {
+    "name": "Front shoulder A",
+    "wire_island": 124,
+    "bounds": [
+      230,
+      839,
+      603,
+      1065
+    ],
+    "mask": "Front_shoulder_A.png"
+  },
+  {
+    "name": "Front shoulder B",
+    "wire_island": 220,
+    "bounds": [
+      230,
+      1348,
+      603,
+      1574
+    ],
+    "mask": "Front_shoulder_B.png"
+  },
+  {
+    "name": "Headlight surround A",
+    "wire_island": 128,
+    "bounds": [
+      134,
+      855,
+      360,
+      1128
+    ],
+    "mask": "Headlight_surround_A.png"
+  },
+  {
+    "name": "Headlight surround B",
+    "wire_island": 214,
+    "bounds": [
+      134,
+      1284,
+      361,
+      1558
+    ],
+    "mask": "Headlight_surround_B.png"
+  },
+  {
+    "name": "Front bumper upper",
+    "wire_island": 125,
+    "bounds": [
+      79,
+      842,
+      287,
+      1570
+    ],
+    "mask": "Front_bumper_upper.png"
+  },
+  {
+    "name": "Front splitter fascia",
+    "wire_island": 123,
+    "bounds": [
+      4,
+      791,
+      272,
+      1622
+    ],
+    "mask": "Front_splitter_fascia.png"
+  },
+  {
+    "name": "Side A",
+    "wire_island": 76,
+    "bounds": [
+      628,
+      459,
+      1661,
+      999
+    ],
+    "mask": "Side_A.png"
+  },
+  {
+    "name": "Side B",
+    "wire_island": 240,
+    "bounds": [
+      628,
+      1413,
+      1661,
+      1954
+    ],
+    "mask": "Side_B.png"
+  },
+  {
+    "name": "Front side extension A",
+    "wire_island": 68,
+    "bounds": [
+      145,
+      388,
+      663,
+      560
+    ],
+    "mask": "Front_side_extension_A.png"
+  },
+  {
+    "name": "Front side extension B",
+    "wire_island": 306,
+    "bounds": [
+      145,
+      1853,
+      663,
+      2024
+    ],
+    "mask": "Front_side_extension_B.png"
+  },
+  {
+    "name": "Side sill A",
+    "wire_island": 408,
+    "bounds": [
+      481,
+      419,
+      1339,
+      606
+    ],
+    "mask": "Side_sill_A.png"
+  },
+  {
+    "name": "Side sill B",
+    "wire_island": 409,
+    "bounds": [
+      481,
+      1806,
+      1337,
+      1993
+    ],
+    "mask": "Side_sill_B.png"
+  },
+  {
+    "name": "Roof and pillars",
+    "wire_island": 120,
+    "bounds": [
+      597,
+      770,
+      1617,
+      1643
+    ],
+    "mask": "Roof_and_pillars.png"
+  },
+  {
+    "name": "Rear deck",
+    "wire_island": 167,
+    "bounds": [
+      1091,
+      1015,
+      1626,
+      1397
+    ],
+    "mask": "Rear_deck.png"
+  },
+  {
+    "name": "Windshield banner",
+    "wire_island": 165,
+    "bounds": [
+      713,
+      998,
+      818,
+      1414
+    ],
+    "mask": "Windshield_banner.png"
+  },
+  {
+    "name": "Lower windshield strip",
+    "wire_island": 164,
+    "bounds": [
+      485,
+      999,
+      589,
+      1414
+    ],
+    "mask": "Lower_windshield_strip.png"
+  },
+  {
+    "name": "Rear deck trailing lip",
+    "wire_island": 407,
+    "bounds": [
+      1673,
+      892,
+      1860,
+      1520
+    ],
+    "mask": "Rear_deck_trailing_lip.png"
+  },
+  {
+    "name": "Rear curved fascia",
+    "wire_island": 134,
+    "bounds": [
+      1803,
+      907,
+      1986,
+      1505
+    ],
+    "mask": "Rear_curved_fascia.png"
+  },
+  {
+    "name": "Rear bumper upper",
+    "wire_island": 3,
+    "bounds": [
+      1165,
+      6,
+      1876,
+      169
+    ],
+    "mask": "Rear_bumper_upper.png"
+  },
+  {
+    "name": "Rear bumper center",
+    "wire_island": 36,
+    "bounds": [
+      1277,
+      172,
+      1764,
+      276
+    ],
+    "mask": "Rear_bumper_center.png"
+  },
+  {
+    "name": "Front bumper corner A",
+    "wire_island": 401,
+    "bounds": [
+      1022,
+      230,
+      1289,
+      411
+    ],
+    "mask": "Front_bumper_corner_A.png"
+  },
+  {
+    "name": "Front bumper corner B",
+    "wire_island": 40,
+    "bounds": [
+      1607,
+      229,
+      2020,
+      411
+    ],
+    "mask": "Front_bumper_corner_B.png"
+  },
+  {
+    "name": "Front mouth surround",
+    "wire_island": 402,
+    "bounds": [
+      1285,
+      324,
+      1540,
+      421
+    ],
+    "mask": "Front_mouth_surround.png"
+  },
+  {
+    "name": "Front center face",
+    "wire_island": 57,
+    "bounds": [
+      1383,
+      328,
+      1657,
+      383
+    ],
+    "mask": "Front_center_face.png"
+  },
+  {
+    "name": "Wing surface A",
+    "wire_island": 6,
+    "bounds": [
+      7,
+      8,
+      654,
+      152
+    ],
+    "mask": "Wing_surface_A.png"
+  },
+  {
+    "name": "Wing surface B",
+    "wire_island": 35,
+    "bounds": [
+      7,
+      162,
+      654,
+      297
+    ],
+    "mask": "Wing_surface_B.png"
+  },
+  {
+    "name": "Wing endplate outer A",
+    "wire_island": 403,
+    "bounds": [
+      10,
+      306,
+      154,
+      371
+    ],
+    "mask": "Wing_endplate_outer_A.png"
+  },
+  {
+    "name": "Wing endplate inner A",
+    "wire_island": 404,
+    "bounds": [
+      159,
+      306,
+      311,
+      371
+    ],
+    "mask": "Wing_endplate_inner_A.png"
+  },
+  {
+    "name": "Wing endplate outer B",
+    "wire_island": 405,
+    "bounds": [
+      310,
+      306,
+      454,
+      372
+    ],
+    "mask": "Wing_endplate_outer_B.png"
+  },
+  {
+    "name": "Wing endplate inner B",
+    "wire_island": 406,
+    "bounds": [
+      459,
+      306,
+      611,
+      371
+    ],
+    "mask": "Wing_endplate_inner_B.png"
+  },
+  {
+    "name": "Wing endplate edge",
+    "wire_island": 8,
+    "bounds": [
+      966,
+      14,
+      990,
+      235
+    ],
+    "mask": "Wing_endplate_edge.png"
+  },
+  {
+    "name": "Mirror upper A",
+    "wire_island": 111,
+    "bounds": [
+      774,
+      726,
+      861,
+      781
+    ],
+    "mask": "Mirror_upper_A.png"
+  },
+  {
+    "name": "Mirror upper B",
+    "wire_island": 281,
+    "bounds": [
+      774,
+      1631,
+      861,
+      1686
+    ],
+    "mask": "Mirror_upper_B.png"
+  },
+  {
+    "name": "Mirror back A",
+    "wire_island": 122,
+    "bounds": [
+      794,
+      788,
+      841,
+      820
+    ],
+    "mask": "Mirror_back_A.png"
+  },
+  {
+    "name": "Mirror back B",
+    "wire_island": 277,
+    "bounds": [
+      794,
+      1592,
+      841,
+      1624
+    ],
+    "mask": "Mirror_back_B.png"
+  },
+  {
+    "name": "Rear corner extension A",
+    "wire_island": 83,
+    "bounds": [
+      1578,
+      500,
+      1719,
+      675
+    ],
+    "mask": "Rear_corner_extension_A.png"
+  },
+  {
+    "name": "Rear corner extension B",
+    "wire_island": 299,
+    "bounds": [
+      1578,
+      1737,
+      1719,
+      1913
+    ],
+    "mask": "Rear_corner_extension_B.png"
+  },
+  {
+    "name": "Rear vent A",
+    "wire_island": 92,
+    "bounds": [
+      1734,
+      579,
+      1919,
+      770
+    ],
+    "mask": "Rear_vent_A.png"
+  },
+  {
+    "name": "Rear vent B",
+    "wire_island": 286,
+    "bounds": [
+      1734,
+      1642,
+      1918,
+      1833
+    ],
+    "mask": "Rear_vent_B.png"
+  },
+  {
+    "name": "Front lower blade A",
+    "wire_island": 107,
+    "bounds": [
+      80,
+      711,
+      169,
+      891
+    ],
+    "mask": "Front_lower_blade_A.png"
+  },
+  {
+    "name": "Front lower blade B",
+    "wire_island": 273,
+    "bounds": [
+      80,
+      1521,
+      169,
+      1702
+    ],
+    "mask": "Front_lower_blade_B.png"
+  },
+  {
+    "name": "Front arch lip A",
+    "wire_island": 110,
+    "bounds": [
+      383,
+      726,
+      590,
+      851
+    ],
+    "mask": "Front_arch_lip_A.png"
+  },
+  {
+    "name": "Front arch lip B",
+    "wire_island": 275,
+    "bounds": [
+      383,
+      1561,
+      590,
+      1686
+    ],
+    "mask": "Front_arch_lip_B.png"
+  },
+  {
+    "name": "Front lower fender A",
+    "wire_island": 84,
+    "bounds": [
+      280,
+      513,
+      459,
+      688
+    ],
+    "mask": "Front_lower_fender_A.png"
+  },
+  {
+    "name": "Front lower fender B",
+    "wire_island": 296,
+    "bounds": [
+      280,
+      1724,
+      459,
+      1900
+    ],
+    "mask": "Front_lower_fender_B.png"
+  },
+  {
+    "name": "Front canard A",
+    "wire_island": 121,
+    "bounds": [
+      7,
+      773,
+      54,
+      925
+    ],
+    "mask": "Front_canard_A.png"
+  },
+  {
+    "name": "Front canard B",
+    "wire_island": 270,
+    "bounds": [
+      7,
+      1488,
+      54,
+      1639
+    ],
+    "mask": "Front_canard_B.png"
+  },
+  {
+    "name": "Front louvre 96",
+    "wire_island": 96,
+    "bounds": [
+      472,
+      625,
+      630,
+      678
+    ],
+    "mask": "Front_louvre_96.png"
+  },
+  {
+    "name": "Front louvre 101",
+    "wire_island": 101,
+    "bounds": [
+      475,
+      665,
+      633,
+      718
+    ],
+    "mask": "Front_louvre_101.png"
+  },
+  {
+    "name": "Front louvre 104",
+    "wire_island": 104,
+    "bounds": [
+      357,
+      695,
+      514,
+      747
+    ],
+    "mask": "Front_louvre_104.png"
+  },
+  {
+    "name": "Front louvre 114",
+    "wire_island": 114,
+    "bounds": [
+      364,
+      736,
+      519,
+      786
+    ],
+    "mask": "Front_louvre_114.png"
+  },
+  {
+    "name": "Front louvre 280",
+    "wire_island": 280,
+    "bounds": [
+      364,
+      1626,
+      519,
+      1677
+    ],
+    "mask": "Front_louvre_280.png"
+  },
+  {
+    "name": "Front louvre 291",
+    "wire_island": 291,
+    "bounds": [
+      359,
+      1667,
+      514,
+      1717
+    ],
+    "mask": "Front_louvre_291.png"
+  },
+  {
+    "name": "Front louvre 294",
+    "wire_island": 294,
+    "bounds": [
+      475,
+      1694,
+      634,
+      1747
+    ],
+    "mask": "Front_louvre_294.png"
+  },
+  {
+    "name": "Front louvre 298",
+    "wire_island": 298,
+    "bounds": [
+      472,
+      1735,
+      629,
+      1787
+    ],
+    "mask": "Front_louvre_298.png"
+  }
+]

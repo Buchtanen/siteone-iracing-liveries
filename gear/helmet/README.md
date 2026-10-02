@@ -10,3 +10,5 @@ Aktuální textura helmy. Zadní kresba a středový šev jsou opravené podle s
 
 Úplná 2048px pracovní PSD se všemi 80 vrstvami originální šablony je uložená v místním výstupu Codexu. TGA a obě PSD vytvářejí stejnou finální kresbu.
 
+
+[Instalace do Trading Paints pro tým, včetně účtu Free](../INSTALL_CZ.md).

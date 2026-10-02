@@ -23,5 +23,10 @@
     "slug": "porsche-992-gt3-r",
     "name": "Porsche 911 GT3 R (992)",
     "game_folder": "porsche992rgt3"
+  },
+  {
+    "slug": "mclaren-720s-gt3-evo",
+    "name": "McLaren 720S GT3 EVO",
+    "game_folder": "mclaren720sgt3"
   }
 ]

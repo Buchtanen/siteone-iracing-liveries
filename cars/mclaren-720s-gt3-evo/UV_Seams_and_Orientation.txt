@@ -1,0 +1,57 @@
+SITEONE / McLAREN 720S GT3 EVO
+Pracovní mapa UV a pravidla lakování, 2. 10. 2026
+
+ZDROJ
+Oficiální McLaren 720s EVO GT3.psd z 188_template_720GT3.zip.
+Výstupní textura: 2048 × 2048, RGB 24 bit, TGA RLE.
+UV_Parts.json uvádí 56 pojmenovaných lakovacích oblastí, jejich čísla
+v UV_Parts_Map.png a přesné obdélníky. Samostatné masky jsou v source ZIP.
+
+ORIENTACE
+Kapota 154: příď leží vlevo v atlasu. Číslo a branding otočeny o 270°.
+Bok A 76: horní dlouhý ostrov v atlasu, text a jedničky otočeny o 180°.
+Bok B 240: dolní dlouhý ostrov, text a jedničky bez otočení.
+Geometrie párových podélných dílů se odráží kolem y=1206.
+Znaky se kreslí zvlášť: žádné zrcadlení textů nebo tvaru číslice.
+Střecha 120 a kryt motoru 167: znaky otočené o 270°, čitelné od přídě.
+Horní plocha křídla 35: logo v atlasu bez otočení, čitelné od přídě.
+Druhá plocha křídla 6: logo v atlasu bez otočení.
+Bočnice křídla 403-406: čtyři oddělené plochy s vlastní jedničkou.
+Horní pás čelního skla je 165, spodní čistý černý pás 164.
+
+NÁVAZNOST A MASKY
+Kapota 154 navazuje na ramena 124/220 a okolí světel 128/214.
+Obvod přídě 125 a oddělený splitter 123 mají vlastní masky;
+barva kapoty se nepřenáší přes mezery do splitteru.
+Přední rohy nárazníku 401/40 jsou vedle centrálního čela 57
+a samostatného okolí nasávacího otvoru 402.
+Boky 76/240 obsahují dveře a zadní blatník. Prahy 408/409,
+části předních blatníků a lamely nad kolem se lakují odděleně.
+Kryt motoru 167 končí před samostatnou zadní hranou 407.
+Zadní čelo má oddělené plochy 3 a 36 a zakřivenou plochu 134.
+Grafika se nesmí přesouvat mezi těmito ostrovy bez kontroly na modelu.
+
+Kontury masek vycházejí ze zelených obrysů originální Wire vrstvy.
+Otevřené hranice u křídla, přídě a prahů byly odděleny samostatně.
+Masky mají malý přesah do prázdného okolí proti tmavým švům;
+rozšíření se zastavuje před jádrem sousedního dílu.
+Každá grafická vrstva je oříznutá maskou příslušného dílu.
+Pattern používá jen celé znaky uvnitř zmenšené bezpečné oblasti.
+Originální karbon, sání a funkční detaily zůstávají nahoře.
+Volitelné tovární reklamní vrstvy nejsou zahrnuté do hotového laku.
+
+PRACOVNÍ ZDROJE
+working.psd obsahuje 81 kompozitních vrstev grafiky a skrytou Wire vrstvu.
+Grafika byla vytvořena křivkami s vícenásobným vyhlazením.
+vectors.svg uchovává kreslené křivky a masky; branding je úplný v PSD.
+materials.psd obsahuje oddělené třídy povrchu pro úpravu spec mapy.
+TGA je herní export, PSD kompozit je kontrolován proti TGA.
+Validation JSON kontroluje přesahy mimo masky a shodu PSD kompozitu.
+
+KONTROLA NA MODELU
+Barevná diagnostika: předek a první bok, následně záď a horní křídlo.
+Skutečné laky Dark a Light: zadní tříčtvrteční pohled mírně shora.
+Přední pohled finálních laků a druhý bok: Dark i Light prohlédnuty v Paint Shopu.
+Horní logo křídla následně otočeno o 180° podle připomínky uživatele.
+Skrytá spodní plocha křídla nebyla v zadním horním pohledu celá vidět.
+Kontrola se vztahuje na uvedené pohledy, nikoli na každý skrytý šev v 3D.

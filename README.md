@@ -1,19 +1,19 @@
 # SiteOne.cz | iRacing Liveries
 
-Five cars, ten finishes, plus matching helmet and driver suit. One visual identity.
+Six cars, twelve finishes, plus matching helmet and driver suit. One visual identity.
 
 Dark graphite and light pearl SiteOne liveries with layered PSD sources and matching material maps.
 
 ## GT3 catalog / Katalog pro tým
 
-**[Stáhnout český katalog PDF](https://raw.githubusercontent.com/Buchtanen/siteone-iracing-liveries/main/catalog/SiteOne_Racing_GT3_Catalog_CZ.pdf)** - 13 stran, šest studiových preview a návod k Trading Paints Free.
+**[Stáhnout český katalog PDF](https://raw.githubusercontent.com/Buchtanen/siteone-iracing-liveries/main/catalog/SiteOne_Racing_GT3_Catalog_CZ.pdf)** - 17 stran, osm studiových preview, návod k Trading Paints Free a instalace helmy a kombinézy.
 
-Katalog představuje BMW M4 GT3 EVO, Ford Mustang GT3 a Porsche 911 GT3 R (992), každý v tmavé a světlé variantě. Archiv laků níže obsahuje také McLaren a Radical.
+Katalog představuje BMW M4 GT3 EVO, Ford Mustang GT3, Porsche 911 GT3 R (992) a McLaren 720S GT3 EVO, každý v tmavé a světlé variantě. Archiv laků níže obsahuje také McLaren 570S GT4 a Radical SR10.
 
-| BMW M4 GT3 EVO | Ford Mustang GT3 | Porsche 911 GT3 R (992) |
-| --- | --- | --- |
-| ![BMW Dark](previews/BMW_Dark_Studio.png) | ![Mustang Dark](previews/Mustang_Dark_Studio.png) | ![Porsche Dark](previews/Porsche_Dark_Studio.png) |
-| ![BMW Light](previews/BMW_Light_Studio.png) | ![Mustang Light](previews/Mustang_Light_Studio.png) | ![Porsche Light](previews/Porsche_Light_Studio.png) |
+| BMW M4 GT3 EVO | Ford Mustang GT3 | Porsche 911 GT3 R (992) | McLaren 720S GT3 EVO |
+| --- | --- | --- | --- |
+| ![BMW Dark](previews/BMW_Dark_Studio.png) | ![Mustang Dark](previews/Mustang_Dark_Studio.png) | ![Porsche Dark](previews/Porsche_Dark_Studio.png) | ![McLaren Dark](previews/McLaren_Dark_Studio.png) |
+| ![BMW Light](previews/BMW_Light_Studio.png) | ![Mustang Light](previews/Mustang_Light_Studio.png) | ![Porsche Light](previews/Porsche_Light_Studio.png) | ![McLaren Light](previews/McLaren_Light_Studio.png) |
 
 [Samostatná preview PNG](previews/) jsou studiové ilustrace překreslené podle iRacingu. Přesnou podobu ve hře určují skutečné textury TGA a materiálové mapy MIP.
 
@@ -54,7 +54,15 @@ GitHub slouží jako archiv souborů a pracovních zdrojů. Pro běžné týmov�
 - **Dark**: [paint TGA](cars/porsche-992-gt3-r/dark/paint.tga) · [spec MIP](cars/porsche-992-gt3-r/dark/spec.mip) · [layered PSD sources ZIP](cars/porsche-992-gt3-r/dark/sources-psd.zip)
 - **Light**: [paint TGA](cars/porsche-992-gt3-r/light/paint.tga) · [spec MIP](cars/porsche-992-gt3-r/light/spec.mip) · [layered PSD sources ZIP](cars/porsche-992-gt3-r/light/sources-psd.zip)
 
+### McLaren 720S GT3 EVO
+
+- **Dark**: [paint TGA](cars/mclaren-720s-gt3-evo/dark/paint.tga) · [spec MIP](cars/mclaren-720s-gt3-evo/dark/spec.mip) · [layered PSD sources ZIP](cars/mclaren-720s-gt3-evo/dark/sources-psd.zip)
+- **Light**: [paint TGA](cars/mclaren-720s-gt3-evo/light/paint.tga) · [spec MIP](cars/mclaren-720s-gt3-evo/light/spec.mip) · [layered PSD sources ZIP](cars/mclaren-720s-gt3-evo/light/sources-psd.zip)
+- [56 isolated UV areas](cars/mclaren-720s-gt3-evo/UV_Parts_Map.png) · [Seams and orientation](cars/mclaren-720s-gt3-evo/UV_Seams_and_Orientation.txt)
+
 ## Driver gear
+
+**[Instalace helmy a kombinézy do Trading Paints pro účet Free](gear/INSTALL_CZ.md)** - stažení TGA, vlastní přiřazení, synchronizace a rozdíly Free / Pro.
 
 The current SiteOne.cz / Buchtanen helmet and driver suit use the original iRacing UV templates. The helmet TGA is 2048 × 2048; the suit remains 1024 × 1024. Each folder includes the 24-bit RLE TGA, layered working PSD in a source ZIP, approved design image, Wire map, and a seam check.
 
