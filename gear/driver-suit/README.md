@@ -1,15 +1,17 @@
-# SiteOne.cz / Buchtanen - driver suit (v3)
+# SiteOne - kombinéza 2048, verze 4
 
-Kombinéza s jedním nápisem SiteOne.cz na každé nohavici. Verze 3.
+Hotová textura: 2048 × 2048, TGA RGB 24 bit, RLE. Původní UV rozložení zůstává stejné.
 
-- [Instalace do Trading Paints včetně účtu Free](../INSTALL_CZ.md).
-- [Hotová textura pro iRacing](paint.tga) - 1024 × 1024, RGB 24 bit, RLE.
-- [Vrstvené pracovní PSD s podklady](sources-psd.zip).
-- [Náhled skutečné UV textury](preview.png).
-- [Schválená obrazová předloha](approved-design.png) - návrh, nikoli textura do hry.
-- [Wire a rozložení dílů](wire-map.png).
-- [Kontrola spojů](seam-check.png) - rozvinutá UV kontrola, nikoli 3D render.
+Nově vykreslené jsou nápisy, červenobílé plochy a pattern jedniček s patičkou. Původní stínování a textura látky pochází z podkladu 1024; nejde o nově nasnímanou textilii.
 
-Pracovní PSD obsahuje vrstvy původní oficiální šablony a oddělené vrstvy grafiky a oprav. Vedle obrázků jsou uložené i souřadnice spárovaných švů.
+PSD obsahuje samostatné rastrové vrstvy ve 2048 pro nápisy a grafiku, skrytý wire a skrytou původní verzi. Text v PSD není živá textová vrstva. SVG obsahuje vektorové barevné plochy a jedničky s vloženými maskami; neobsahuje nápisy ani podklad látky. Masky jednotlivých dílů jsou v adresáři masks.
 
-Archiv sources-psd.zip používá kompresi ZIP/LZMA. Pro rozbalení použijte 7-Zip nebo jiný nástroj podporující ZIP/LZMA.
+Na každé fyzické nohavici je jeden nápis SiteOne.cz. Osobní jméno je nahrazeno SiteOne. Drobné značky výrobce jsou typograficky rekonstruované.
+
+Kontrola: nový oblek načten v iRacing Paint Shopu a ověřen v předním tříčtvrtečním pohledu. Zadní strana byla zkontrolována v UV; nové úplné otočení modelu nebylo k dispozici. PSD kompozit je pixelově shodný s TGA. Starší verze je zachována v historii Git a pracovní záloze.
+
+Instalace: v Trading Paints otevřete My Paints a vlastní kombinézu, nahrajte TGA. Pro místní zkoušku použijte Documents/iRacing/paint/suit_VASE-ID.tga. Pokud Paint Shop drží starý náhled, vypněte a znovu zapněte Show Custom Suit. Downloader může lokální zkoušku přepsat svou uloženou verzí.
+
+Pracovní archiv používá běžnou ZIP/Deflate kompresi.
+
+[Hotový TGA](paint.tga) · [Pracovní PSD, geometrie a masky](sources-psd.zip) · [Srovnání](comparison-1024-2048.png) · [Instalace](../INSTALL_CZ.md)

@@ -3,7 +3,7 @@
 Pro základní použití stačí bezplatný účet Trading Paints. Každý soubor přiřaďte samostatně:
 
 - [Helma - hotový TGA, 2048 × 2048](https://raw.githubusercontent.com/Buchtanen/siteone-iracing-liveries/main/gear/helmet/paint.tga)
-- [Kombinéza - hotový TGA, 1024 × 1024](https://raw.githubusercontent.com/Buchtanen/siteone-iracing-liveries/main/gear/driver-suit/paint.tga)
+- [Kombinéza - hotový TGA, 2048 × 2048](https://raw.githubusercontent.com/Buchtanen/siteone-iracing-liveries/main/gear/driver-suit/paint.tga)
 
 ## Postup
 
