@@ -1,14 +1,11 @@
-# SiteOne.cz / Buchtanen / helmet v8
+# SiteOne - týmová helma, verze 9
 
-Aktuální textura helmy. Zadní kresba a středový šev jsou opravené podle skutečného UV rozložení a zkontrolované v 3D náhledu iRacingu.
+2048 × 2048, RGB 24 bit, TGA RLE. Osobní jméno je odstraněné z obou bočních bílých pruhů. Původní UV, zadní kresba a návaznost švů zůstaly zachované.
 
-- [Hotová textura pro iRacing](paint.tga) – 2048 × 2048, RGB 24 bit, RLE.
-- [Vrstvené pracovní PSD a podklady](sources-psd.zip) – aktuální grafika a aktivní vrstvy originální šablony v ZIP/LZMA; skryté vzory šablony jsou kvůli velikosti archivu vynechané.
-- [Náhled skutečné UV textury](preview.png).
-- [Schválená obrazová předloha](approved-design.png).
-- [Wire a rozložení dílů](wire-map.png).
+- [Hotový TGA](paint.tga)
+- [Pracovní PSD](sources-psd.zip) - aktivní původní vrstvy a samostatná maskovaná oprava bílých pruhů, standardní ZIP/Deflate.
+- [Aktuální UV náhled](preview.png)
+- [Studiové preview](../../previews/Helmet_Studio.png)
+- [Instalace pro vlastní účet Trading Paints](../../INSTALL_CZ.md)
 
-Úplná 2048px pracovní PSD se všemi 80 vrstvami originální šablony je uložená v místním výstupu Codexu. TGA a obě PSD vytvářejí stejnou finální kresbu.
-
-
-[Instalace do Trading Paints pro tým, včetně účtu Free](../INSTALL_CZ.md).
+Schovaný původní obsah v pracovních vrstvách slouží jako záloha. Viditelná finální kompozice je týmová a nemá osobní jméno. Historické verze zůstávají v historii Git. Studiový render je ilustrační; přesný herní vzhled určuje TGA.

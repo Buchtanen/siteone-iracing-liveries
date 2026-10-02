@@ -1,8 +1,10 @@
 SITEONE RACING - GT3 PREVIEW PACK
 
-Obsah: český 17stránkový katalog PDF a osm samostatných studiových PNG.
+Obsah: český 20stránkový katalog PDF a deset samostatných studiových PNG.
 BMW M4 GT3 EVO, Ford Mustang GT3, Porsche 911 GT3 R (992), McLaren 720S GT3 EVO: Dark + Light.
-Katalog obsahuje také instalaci helmy a kombinézy pro účet Trading Paints Free.
+Katalog obsahuje studiové rendery týmové helmy a Crew Suit (tři postavy, jeden jezdec s helmou).
+Kombinéza nemá McLaren ani GT4, přes prsa nese firemní claim. Týmová helma nemá osobní jméno.
+Instalace zahrnuje kolekci, stažení z GitHubu, nahrání TGA a MIP do vlastního účtu Trading Paints a výbavu pro Free účet.
 
 Kolekce Trading Paints:
 https://www.tradingpaints.com/collections/view/356562/SiteOne-Racing

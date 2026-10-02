@@ -1,34 +1,34 @@
 {
   "asset": "driver-suit",
-  "version": "v4-redrawn-2048",
+  "version": "v5-team-crew-2048",
   "resolution": [
     2048,
     2048
   ],
   "files": {
     "approved-design.png": {
-      "bytes": 2317019,
-      "sha256": "8b217a4dea53e3569636f3e5019998db730b74b41766ef8a4a089b0c087b0831"
+      "bytes": 2949701,
+      "sha256": "9460a599f1fea247d6840376e9e78a2300e4e14cdb4bf734878555dd867c7c4a"
     },
     "comparison-1024-2048.png": {
-      "bytes": 424356,
-      "sha256": "c87e5415370fbac16018a798d515e87d2acf694c6ac144e9e8edcd4201bc0538"
+      "bytes": 407185,
+      "sha256": "b15ca0dae8f5dfe06a61884230d3563983e02c3e2a079d5ed9634bf8bfa4a1ac"
     },
     "iracing-front-2048.jpg": {
-      "bytes": 158586,
-      "sha256": "9b88de733349d3d5ad3676780097d54eb58151da22b12f24294b8cec485506de"
+      "bytes": 155325,
+      "sha256": "4e49f33292b00392cd2d658bac92a49f571a61d60fb656af7e36a8a1d0236b5b"
     },
     "paint.tga": {
-      "bytes": 7508830,
-      "sha256": "49400ce676e6e3a886c40232b7b1b6eb5a198342d8dfd6d79c53d2269b40c20d"
+      "bytes": 7507535,
+      "sha256": "e56670b413656db1d14330856b8ff41d6c84737df6ce39f4aafa1ef7a0ce0fe4"
     },
     "preview.png": {
-      "bytes": 2942775,
-      "sha256": "4546c786dd7ab064a30d3f695a6ece6496e9a3377a8aa4318f9e4a4ab85298a1"
+      "bytes": 2949701,
+      "sha256": "9460a599f1fea247d6840376e9e78a2300e4e14cdb4bf734878555dd867c7c4a"
     },
     "README.md": {
-      "bytes": 1632,
-      "sha256": "26e391aaaa803cdd82b69d6072c44c2199f15e5bcd70f85a980e3d51c1d8c8cc"
+      "bytes": 1754,
+      "sha256": "a40933c9e7634c67116a86514e27b8b1f24b04062e3d01262cb9707ff4f28cf2"
     },
     "seam-check.png": {
       "bytes": 350310,
@@ -43,8 +43,8 @@
       "sha256": "3583a42f64522dc39262ecc44d42c4fab4012b9d942bff355a2f1cba5b70fae6"
     },
     "sources-psd.zip": {
-      "bytes": 16673183,
-      "sha256": "e8f64621f34425e3f4d639df97359d6f9579e94ee3eed6f48e427b52eb77d159"
+      "bytes": 16675850,
+      "sha256": "4401c42196a170701989f71ac0e0042786e3ead7bc7395afecdbfd39a7ab3178"
     },
     "wire-map.png": {
       "bytes": 349058,

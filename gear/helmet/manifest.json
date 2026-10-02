@@ -1,38 +1,42 @@
 {
   "asset": "helmet",
-  "version": "v8",
+  "version": "v9-team-no-personal-name",
+  "resolution": [
+    2048,
+    2048
+  ],
   "files": {
     "approved-design.png": {
-      "bytes": 2247816,
-      "sha256": "b9a2b9d086bfcb17d9a1b909f956cae178059022d1dd294598f033a513a47293"
+      "bytes": 4507865,
+      "sha256": "243940a38ba1b7d643fc1d902d246c02a658e7468c76d5a4f3f559477cb88692"
     },
     "crown-seam.json": {
-      "bytes": 12898,
-      "sha256": "f0dd681ca4c2413246dee2c306a7354ed1333007781d8093b31304401a0f34f4"
+      "bytes": 11686,
+      "sha256": "9ede418b292447e2cb033b1963aa399213bc2554c48efd6dd0fce30cac8952ab"
     },
     "paint.tga": {
-      "bytes": 9097685,
-      "sha256": "835b53d3de7458eb31513cc92c38333974760a9f94ace8459613015bb07f73aa"
+      "bytes": 9076484,
+      "sha256": "508d8b886374f45eba52601bd29205ab27d410184cc0db4516cada6b1d64f484"
     },
     "preview.png": {
-      "bytes": 4534889,
-      "sha256": "2e62fff0844631b34095cea00042663c54a841f2bea0cf1039d06edfd4ceec5f"
+      "bytes": 4507865,
+      "sha256": "243940a38ba1b7d643fc1d902d246c02a658e7468c76d5a4f3f559477cb88692"
     },
     "README.md": {
       "bytes": 793,
-      "sha256": "a60a16dceb2f7f77be86daca2f7ecd65add361d8f085cf2c63825efaef450719"
+      "sha256": "e2736618a6e6c973131f6049461d5038c5abb7c3b0420cc51b1df791d3f619b6"
     },
     "rear-seam.json": {
-      "bytes": 37230,
-      "sha256": "b9ac65da27641ee2d289e89bac4c93f7749609e450f801ee9a5bf7484e4c80cc"
+      "bytes": 33739,
+      "sha256": "48ae66b49aa9affd9336bc454303176765799925516a453ab4a7375c0ed4eaa9"
     },
     "seam-check.png": {
       "bytes": 367562,
       "sha256": "ed6cbf785b95bdb420cb93ba15263358cf2f5bfc3c3af8e55363ca523d5ba7ff"
     },
     "sources-psd.zip": {
-      "bytes": 23748230,
-      "sha256": "748b262a52afc45def22e8801b4b8b915bf8174539be8874010a853bea201ead"
+      "bytes": 29123808,
+      "sha256": "a4dc05589f625e648b3723e1c950d4162c9000fc80a0afb542856f08e6b7c54c"
     },
     "wire-map.png": {
       "bytes": 86088,
@@ -44,4 +48,3 @@
     }
   }
 }
-

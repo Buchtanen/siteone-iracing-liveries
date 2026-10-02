@@ -6,7 +6,7 @@ Dark graphite and light pearl SiteOne liveries with layered PSD sources and matc
 
 ## GT3 catalog / Katalog pro tým
 
-**[Stáhnout český katalog PDF](https://raw.githubusercontent.com/Buchtanen/siteone-iracing-liveries/main/catalog/SiteOne_Racing_GT3_Catalog_CZ.pdf)** - 17 stran, osm studiových preview, návod k Trading Paints Free a instalace helmy a kombinézy.
+**[Stáhnout český katalog PDF](https://raw.githubusercontent.com/Buchtanen/siteone-iracing-liveries/main/catalog/SiteOne_Racing_GT3_Catalog_CZ.pdf)** - 20 stran, deset studiových preview (osm aut, týmová helma a Crew Suit), instalace z kolekce i GitHubu včetně TGA a MIP.
 
 Katalog představuje BMW M4 GT3 EVO, Ford Mustang GT3, Porsche 911 GT3 R (992) a McLaren 720S GT3 EVO, každý v tmavé a světlé variantě. Archiv laků níže obsahuje také McLaren 570S GT4 a Radical SR10.
 
@@ -66,14 +66,14 @@ GitHub slouží jako archiv souborů a pracovních zdrojů. Pro běžné týmov�
 
 The current SiteOne helmet and driver suit use the original iRacing UV templates. The helmet TGA is 2048 × 2048; the suit is redrawn at 2048 × 2048. Each folder includes the 24-bit RLE TGA, layered working PSD in a source ZIP, approved design image, Wire map, and a seam check.
 
-- **Helmet v8**: [TGA](gear/helmet/paint.tga) · [layered PSD and source files](gear/helmet/sources-psd.zip) · [Wire and seam notes](gear/helmet/README.md)
-- **Driver suit v4**: [TGA](gear/driver-suit/paint.tga) · [layered PSD and source files](gear/driver-suit/sources-psd.zip) · [Wire and seam notes](gear/driver-suit/README.md)
+- **Team helmet v9**: [TGA](gear/helmet/paint.tga) · [layered PSD and source files](gear/helmet/sources-psd.zip) · [Wire and seam notes](gear/helmet/README.md)
+- **Crew suit v5**: [TGA](gear/driver-suit/paint.tga) · [layered PSD and source files](gear/driver-suit/sources-psd.zip) · [Wire and seam notes](gear/driver-suit/README.md)
 
-The helmet source ZIP uses LZMA compression (7-Zip supported); the new suit source ZIP uses standard Deflate.
+Both current gear source ZIPs use standard Deflate compression.
 
 ## Car paints: Trading Paints Free and Pro
 
-For the free account workflow, select an available Sim-Stamped Number paint in the public collection and click Race this paint. Alternatively, paint.tga can be uploaded under My Paints. iRacing adds the session number; it may cover graphics or appear alongside the decorative 1. Assigning Custom Number paints through Trading Paints requires Pro. The studio illustrations show the team design and do not guarantee the same session number placement. PSD files allow the number area to be adapted if required.
+For the free account workflow, select an available Sim-Stamped Number paint in the public collection and click Race this paint. Alternatively, download paint.tga plus the matching spec.mip from GitHub and upload both for your account: [complete installation guide](INSTALL_CZ.md). iRacing adds the session number; it may cover graphics or appear alongside the decorative 1. Assigning Custom Number paints through Trading Paints requires Pro. The studio illustrations show the team design and do not guarantee the same session number placement. PSD files allow the number area to be adapted if required.
 
 Add the matching spec.mip as the spec map. All branding is included in the paint TGA; no separate Pro decal layer is necessary.
 
@@ -87,3 +87,5 @@ Car paints use 2048 × 2048 RGB 24-bit RLE TGA. Helmet uses 2048 × 2048 and sui
 
 This repository publishes the finished collection only. Original manufacturer template archives and historical drafts are not included. Vehicle and game marks identify the supported models.
 
+
+Latest team equipment: helmet v9 has no personal name; Crew Suit v5 replaces McLaren / 570S GT4 branding with the SiteOne corporate claim. [Installation guide](INSTALL_CZ.md) · [Team equipment studio previews](previews/).
