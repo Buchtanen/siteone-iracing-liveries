@@ -1,0 +1,46 @@
+{
+  "asset": "helmet",
+  "version": "v4",
+  "files": {
+    "approved-design.png": {
+      "bytes": 2247816,
+      "sha256": "b9a2b9d086bfcb17d9a1b909f956cae178059022d1dd294598f033a513a47293"
+    },
+    "crown-seam.json": {
+      "bytes": 12898,
+      "sha256": "f0dd681ca4c2413246dee2c306a7354ed1333007781d8093b31304401a0f34f4"
+    },
+    "paint.tga": {
+      "bytes": 2284865,
+      "sha256": "4521627406473a42fc791a685548c9344be4edf75c64b897844c1220c96cfe0b"
+    },
+    "preview.png": {
+      "bytes": 1315513,
+      "sha256": "88f137dfdad65f2802a2a8d85ca448277372709a7b7d6735a9c4c68998c1f84d"
+    },
+    "README.md": {
+      "bytes": 691,
+      "sha256": "77d12f52f456390fee8edbab4d95d53a32968b53a6cc8b8b3c9caa62336413fd"
+    },
+    "rear-seam.json": {
+      "bytes": 37230,
+      "sha256": "b9ac65da27641ee2d289e89bac4c93f7749609e450f801ee9a5bf7484e4c80cc"
+    },
+    "seam-check.png": {
+      "bytes": 367562,
+      "sha256": "ed6cbf785b95bdb420cb93ba15263358cf2f5bfc3c3af8e55363ca523d5ba7ff"
+    },
+    "sources-psd.zip": {
+      "bytes": 39316758,
+      "sha256": "77af26a43b01f4e437acc463f2e658b98890744580c01aa29bafce8b9db48a9d"
+    },
+    "wire-map.png": {
+      "bytes": 86088,
+      "sha256": "c0fdf01f029ff739300ee28750c8d6351ca3334929086a9ddb172ee260075362"
+    },
+    "wire-overlay.png": {
+      "bytes": 699399,
+      "sha256": "7512d6fc5cb17679e1ab3aebe2ff8546ff58027bb375829de5c9c2369e641670"
+    }
+  }
+}

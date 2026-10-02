@@ -1,6 +1,6 @@
 # SiteOne.cz | iRacing Liveries
 
-Five cars. Ten finishes. One visual identity.
+Five cars, ten finishes, plus matching helmet and driver suit. One visual identity.
 
 Dark graphite and light pearl SiteOne liveries with layered PSD sources and matching material maps.
 
@@ -54,7 +54,16 @@ GitHub slouží jako archiv souborů a pracovních zdrojů. Pro běžné týmov�
 - **Dark**: [paint TGA](cars/porsche-992-gt3-r/dark/paint.tga) · [spec MIP](cars/porsche-992-gt3-r/dark/spec.mip) · [layered PSD sources ZIP](cars/porsche-992-gt3-r/dark/sources-psd.zip)
 - **Light**: [paint TGA](cars/porsche-992-gt3-r/light/paint.tga) · [spec MIP](cars/porsche-992-gt3-r/light/spec.mip) · [layered PSD sources ZIP](cars/porsche-992-gt3-r/light/sources-psd.zip)
 
-## Trading Paints Free and Pro
+## Driver gear
+
+The current SiteOne.cz / Buchtanen helmet and driver suit use the original iRacing UV templates at 1024 × 1024. Each folder includes the 24-bit RLE TGA, layered working PSD in a source ZIP, approved design image, Wire map, and a seam check.
+
+- **Helmet v4**: [TGA](gear/helmet/paint.tga) · [layered PSD and source files](gear/helmet/sources-psd.zip) · [Wire and seam notes](gear/helmet/README.md)
+- **Driver suit v3**: [TGA](gear/driver-suit/paint.tga) · [layered PSD and source files](gear/driver-suit/sources-psd.zip) · [Wire and seam notes](gear/driver-suit/README.md)
+
+The driver suit source ZIP uses LZMA compression; open it with 7-Zip or another ZIP/LZMA extractor.
+
+## Car paints: Trading Paints Free and Pro
 
 For the free account workflow, select an available Sim-Stamped Number paint in the public collection and click Race this paint. Alternatively, paint.tga can be uploaded under My Paints. iRacing adds the session number; it may cover graphics or appear alongside the decorative 1. Assigning Custom Number paints through Trading Paints requires Pro. The studio illustrations show the team design and do not guarantee the same session number placement. PSD files allow the number area to be adapted if required.
 
@@ -64,8 +73,8 @@ Official guidance: [Custom Number paints](https://help.tradingpaints.com/paintin
 
 ## Source files
 
-Each sources-psd.zip contains the layered paint PSD, material PSD and source spec TGA. The ZIP avoids large individual Photoshop files and requires no Git LFS. The newer cars also include editable SVG curves. UV maps and seam notes are stored beside each car's variants.
+For cars, each sources-psd.zip contains the layered paint PSD, material PSD and source spec TGA. The newer cars also include editable SVG curves. UV maps and seam notes are stored beside each car's variants. Gear source ZIPs contain their layered PSD, approved artwork and Wire/seam references.
 
-Paints use 2048 × 2048 RGB 24-bit RLE TGA. Material MIPs were generated in iRacing. Wheel colors are configured separately in iRacing.
+Car paints use 2048 × 2048 RGB 24-bit RLE TGA. Helmet and suit use the native 1024 × 1024 RGB 24-bit RLE TGA. Material MIPs for cars were generated in iRacing. Wheel colors are configured separately in iRacing.
 
 This repository publishes the finished collection only. Original manufacturer template archives and historical drafts are not included. Vehicle and game marks identify the supported models.

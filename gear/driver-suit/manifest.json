@@ -1,0 +1,38 @@
+{
+  "asset": "driver-suit",
+  "version": "v3",
+  "files": {
+    "approved-design.png": {
+      "bytes": 2317019,
+      "sha256": "8b217a4dea53e3569636f3e5019998db730b74b41766ef8a4a089b0c087b0831"
+    },
+    "paint.tga": {
+      "bytes": 2648105,
+      "sha256": "6f2f8b576919b2d5f4bc06dba70e1b93aaed9c63518a35b9fd3d1a75bee81427"
+    },
+    "preview.png": {
+      "bytes": 1402419,
+      "sha256": "50c139c98d9c91da814626f66594c8550e24baa342f4637569b3e29d99bf55af"
+    },
+    "README.md": {
+      "bytes": 822,
+      "sha256": "6bc0e16ed9300a5f079a0aff3965973c2153a0bcbe22f65054d8a74ff8b5ea9a"
+    },
+    "seam-check.png": {
+      "bytes": 350310,
+      "sha256": "27a83535d8e9b6c664ad22fd2bbb28c66e90d537a2ce22fc387d1eb51797f24b"
+    },
+    "seams.json": {
+      "bytes": 12427,
+      "sha256": "828fb87dd892bf8fa007de9235073f39114027af600566d004149abe6dd1a736"
+    },
+    "sources-psd.zip": {
+      "bytes": 28160422,
+      "sha256": "98459fca5b3cc88308fa3fd002c64eb4d4c673bbdbdbb28c4f4115e49b58df82"
+    },
+    "wire-map.png": {
+      "bytes": 349058,
+      "sha256": "5f7d2a97760eaf80d62acb409678a745cb8c38a04ca5fa45db2ccefc59c61d8c"
+    }
+  }
+}
