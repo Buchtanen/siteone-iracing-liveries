@@ -1,6 +1,6 @@
 {
   "asset": "helmet",
-  "version": "v5",
+  "version": "v8",
   "files": {
     "approved-design.png": {
       "bytes": 2247816,
@@ -11,16 +11,16 @@
       "sha256": "f0dd681ca4c2413246dee2c306a7354ed1333007781d8093b31304401a0f34f4"
     },
     "paint.tga": {
-      "bytes": 2312309,
-      "sha256": "719fa8a576926e7a420faecc653d7bf0c6c84be67c91f3e643dff6fdd613f4d0"
+      "bytes": 9097685,
+      "sha256": "835b53d3de7458eb31513cc92c38333974760a9f94ace8459613015bb07f73aa"
     },
     "preview.png": {
-      "bytes": 1356169,
-      "sha256": "ffca911163dd01c6dfb5b84dc5875c7b94a4f46cc5a921d250c0968ebab0f0f9"
+      "bytes": 4534889,
+      "sha256": "2e62fff0844631b34095cea00042663c54a841f2bea0cf1039d06edfd4ceec5f"
     },
     "README.md": {
-      "bytes": 1081,
-      "sha256": "88ab558c00a8b5dce6c55aaf1a0d8e29fe64f1159c28e94ecd38b443d8d94861"
+      "bytes": 793,
+      "sha256": "a60a16dceb2f7f77be86daca2f7ecd65add361d8f085cf2c63825efaef450719"
     },
     "rear-seam.json": {
       "bytes": 37230,
@@ -31,8 +31,8 @@
       "sha256": "ed6cbf785b95bdb420cb93ba15263358cf2f5bfc3c3af8e55363ca523d5ba7ff"
     },
     "sources-psd.zip": {
-      "bytes": 23318487,
-      "sha256": "171e6db0da067345d43645f66f0f404c18327415615d9f4af459b66b0a5d2e28"
+      "bytes": 23748230,
+      "sha256": "748b262a52afc45def22e8801b4b8b915bf8174539be8874010a853bea201ead"
     },
     "wire-map.png": {
       "bytes": 86088,
@@ -44,3 +44,4 @@
     }
   }
 }
+
