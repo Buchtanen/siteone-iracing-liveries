@@ -27,20 +27,20 @@
       "sha256": "4546c786dd7ab064a30d3f695a6ece6496e9a3377a8aa4318f9e4a4ab85298a1"
     },
     "README.md": {
-      "bytes": 1649,
-      "sha256": "b222a20294d45519dfb6ce7347a3a7380efe72ff5931e405f14d225fc9788ea3"
+      "bytes": 1632,
+      "sha256": "26e391aaaa803cdd82b69d6072c44c2199f15e5bcd70f85a980e3d51c1d8c8cc"
     },
     "seam-check.png": {
       "bytes": 350310,
       "sha256": "27a83535d8e9b6c664ad22fd2bbb28c66e90d537a2ce22fc387d1eb51797f24b"
     },
     "seams-2048.json": {
-      "bytes": 12543,
-      "sha256": "193a5d62f7ac3c165fdc6ce88fa866e3fcd877f54233720bc4896e872b375f3c"
+      "bytes": 11809,
+      "sha256": "dfd1b1790ac665d789bfe995e550f05e16c00591e90474969e305142b0b1ea20"
     },
     "seams.json": {
-      "bytes": 12427,
-      "sha256": "828fb87dd892bf8fa007de9235073f39114027af600566d004149abe6dd1a736"
+      "bytes": 11693,
+      "sha256": "3583a42f64522dc39262ecc44d42c4fab4012b9d942bff355a2f1cba5b70fae6"
     },
     "sources-psd.zip": {
       "bytes": 16673183,
