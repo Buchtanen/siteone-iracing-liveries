@@ -1,0 +1,20 @@
+{
+  "version": "V78",
+  "approved_by_user": true,
+  "date": "2026-10-05",
+  "car": "McLaren 570S GT4",
+  "variant": "Light",
+  "size": [
+    2048,
+    2048
+  ],
+  "paint_mode": "RGB",
+  "decals_mode": "RGBA",
+  "spec_generated_by": "iRacing",
+  "live_sources_verified": true,
+  "sha256": {
+    "paint.tga": "0aa632d7d5ccbb402fabc285298d88bf4170d0f1527e583cf932096a43d0221f",
+    "decals.tga": "1336fb337650f89b23f36d672b9ca7708493c82584c5b87812976a93a18df072",
+    "spec.mip": "646fcf3e6047c8c9715d4a53f8e90336d1cd1ec87023caf49d9a1dd56e5e819b"
+  }
+}

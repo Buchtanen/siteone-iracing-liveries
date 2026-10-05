@@ -25,18 +25,27 @@ Otevřete **paint.tga** a stáhněte jej přes **Download raw file** (ikona sta�
 
 1. Otevřete [formulář nahrání](https://www.tradingpaints.com/upload/showroom) v přihlášeném Trading Paints.
 2. Přes **Select a paint file** vložte **paint.tga**.
-3. Přes **Add spec map or decal layer** otevřete doplňkové soubory. Do části **spec map** vložte **spec.mip**. Pole pro decal layer nechte prázdné.
+3. Přes **Add spec map or decal layer** otevřete doplňkové soubory. Do části **spec map** vložte **spec.mip**. U McLarenu 570S GT4 Light V78 do decal layer vložte také **decals.tga**; u ostatních stávajících balíčků samostatný decals soubor není.
 4. U **Who can race with this paint?** zvolte **Just Me**. Tím se lak uloží do vašich **My Paints**; nevytváříte další veřejnou kopii v Showroomu.
 5. V **Vehicle** vyberte přesný vůz. S účtem Free zvolte **Sim-Stamped Number**. Dokončete formulář a uložte jej.
 6. V [My Paints](https://www.tradingpaints.com/dashboard) ověřte přiřazený vůz a lak. Nechte Downloader synchronizovat soubory.
 
 | Soubor | Kam patří |
 |---|---|
-| `paint.tga` | Hlavní paint file: barvy, grafika a loga |
+| `paint.tga` | Hlavní paint file: barvy a grafika; u starších variant také loga |
+| `decals.tga` | Samostatná loga a polepy pro McLaren 570S GT4 Light V78 |
 | `spec.mip` | Spec map: povrch, lesk a metalíza |
 | Zdrojové spec TGA | Pracovní podklad; hotový MIP už je v archivu |
 | PSD / ZIP | Pracovní soubory pro úpravy, nenahrávat jako lak |
 | Studiový PNG render | Katalogové preview, nenahrávat jako texturu |
+
+### McLaren 570S GT4 Light V78 — 5. 10. 2026
+
+Aktuální `paint.tga` pro světlý McLaren 570S GT4 V78 je **Sim-Stamped Number**: původní číselné tabulky jsou prázdné a závodní číslo přidává iRacing. Jedničky v patternu a dekorativní motivy mimo tabulky zůstávají součástí designu. Nahrajte znovu všechny tři aktuální soubory **paint.tga + decals.tga + spec.mip**; samotná aktualizace GitHubu nenahradí dřívější upload na Trading Paints.
+
+Používejte **Sim-Stamped Number**, nikoli Custom Number. V iRacingu ponechte zobrazování herních čísel zapnuté. Pokud jste dříve testovali vlastní čísla, zálohujte mimo složku vozu starý `car_num_VASE-ID.tga` a případný starý `decal_VASE-ID.tga`. Při lokálním testování používejte `car_VASE-ID.tga`; starý soubor `car_num_...` může mít přednost a skrýt číslo hry.
+
+V Paint Shopu porovnáte tovární umístění vypnutím **Show Custom Paint**. Potom vlastní lak znovu zapněte a nechte **Show Stamps** zapnuté. Barva číslic musí kontrastovat s tabulkou: černá pro bílé tabulky 570S/Radical, bílá pro tmavé tabulky GT3.
 
 ## 5. Helma a kombinéza
 

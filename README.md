@@ -32,7 +32,7 @@ GitHub slouží jako archiv souborů a pracovních zdrojů. Pro běžné týmov�
 ### McLaren 570S GT4
 
 - **Dark**: [paint TGA](cars/mclaren-570s-gt4/dark/paint.tga) · [spec MIP](cars/mclaren-570s-gt4/dark/spec.mip) · [layered PSD sources ZIP](cars/mclaren-570s-gt4/dark/sources-psd.zip)
-- **Light**: [paint TGA](cars/mclaren-570s-gt4/light/paint.tga) · [spec MIP](cars/mclaren-570s-gt4/light/spec.mip) · [layered PSD sources ZIP](cars/mclaren-570s-gt4/light/sources-psd.zip)
+- **Light V78 — approved 5 October 2026**: [paint TGA](cars/mclaren-570s-gt4/light/paint.tga) · [transparent decals TGA](cars/mclaren-570s-gt4/light/decals.tga) · [spec MIP](cars/mclaren-570s-gt4/light/spec.mip) · [layered PSD sources ZIP](cars/mclaren-570s-gt4/light/sources-psd.zip) · [upload guide](cars/mclaren-570s-gt4/light/README.md)
 
 ### Ford Mustang GT3
 
@@ -73,9 +73,9 @@ Both current gear source ZIPs use standard Deflate compression.
 
 ## Car paints: Trading Paints Free and Pro
 
-For the free account workflow, select an available Sim-Stamped Number paint in the public collection and click Race this paint. Alternatively, download paint.tga plus the matching spec.mip from GitHub and upload both for your account: [complete installation guide](INSTALL_CZ.md). iRacing adds the session number; it may cover graphics or appear alongside the decorative 1. Assigning Custom Number paints through Trading Paints requires Pro. The studio illustrations show the team design and do not guarantee the same session number placement. PSD files allow the number area to be adapted if required.
+For the free account workflow, select an available Sim-Stamped Number paint in the public collection and click Race this paint. Alternatively, download paint.tga plus the matching spec.mip from GitHub and upload both for your account: [complete installation guide](INSTALL_CZ.md). The McLaren 570S GT4 Light V78 update restores blank factory number reserves. iRacing adds the session number into those reserves. Decorative 1 motifs remain outside number fields. Assigning Custom Number paints through Trading Paints requires Pro. The studio illustrations show the team design and do not guarantee the same session number placement. The studio illustrations predate this number-panel correction; the McLaren 570S GT4 Light V78 textures contain the updated blank panels. Other cars and the dark 570S are unchanged by this release.
 
-Add the matching spec.mip as the spec map. All branding is included in the paint TGA; no separate Pro decal layer is necessary.
+Add the matching spec.mip as the spec map. McLaren 570S GT4 Light V78 has a separate transparent decals.tga: upload it as the decal layer alongside paint.tga and spec.mip. The older variants keep their existing file layout.
 
 Official guidance: [Custom Number paints](https://help.tradingpaints.com/painting/what-is-a-custom-number-paint-and-how-do-they-work/) · [Downloader](https://www.tradingpaints.com/page/Install).
 
