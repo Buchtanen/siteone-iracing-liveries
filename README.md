@@ -57,7 +57,7 @@ GitHub slouží jako archiv souborů a pracovních zdrojů. Pro běžné týmov�
 ### McLaren 720S GT3 EVO
 
 - **Dark**: [paint TGA](cars/mclaren-720s-gt3-evo/dark/paint.tga) · [spec MIP](cars/mclaren-720s-gt3-evo/dark/spec.mip) · [layered PSD sources ZIP](cars/mclaren-720s-gt3-evo/dark/sources-psd.zip)
-- **Light**: [paint TGA](cars/mclaren-720s-gt3-evo/light/paint.tga) · [spec MIP](cars/mclaren-720s-gt3-evo/light/spec.mip) · [layered PSD sources ZIP](cars/mclaren-720s-gt3-evo/light/sources-psd.zip)
+- **Light V7 — approved 5 October 2026**: [paint TGA including logos](cars/mclaren-720s-gt3-evo/light/paint.tga) · [spec MIP](cars/mclaren-720s-gt3-evo/light/spec.mip) · [version and upload guide](cars/mclaren-720s-gt3-evo/light/README.md) · [older PSD source archive](cars/mclaren-720s-gt3-evo/light/sources-psd.zip)
 - [56 isolated UV areas](cars/mclaren-720s-gt3-evo/UV_Parts_Map.png) · [Seams and orientation](cars/mclaren-720s-gt3-evo/UV_Seams_and_Orientation.txt)
 
 ## Driver gear

@@ -84,3 +84,8 @@ Schválený [paint.tga](cars/bmw-m4-gt3/light/paint.tga) obsahuje také všechna
 ### Porsche 911 GT3 R (992) Light V3 — 5. 10. 2026
 
 [Paint.tga](cars/porsche-992-gt3-r/light/paint.tga) obsahuje všechna loga a nápisy. Nahrajte jej spolu s [spec.mip](cars/porsche-992-gt3-r/light/spec.mip). Samostatný decals soubor nepřidávejte. [Podrobnosti verze](cars/porsche-992-gt3-r/light/README.md).
+
+
+### McLaren 720S GT3 EVO Light V7 — 5. 10. 2026
+
+[Paint.tga](cars/mclaren-720s-gt3-evo/light/paint.tga) obsahuje všechna loga a nápisy. Nahrajte jej spolu s [spec.mip](cars/mclaren-720s-gt3-evo/light/spec.mip). Samostatný decals soubor nepřidávejte. [Podrobnosti verze](cars/mclaren-720s-gt3-evo/light/README.md).
