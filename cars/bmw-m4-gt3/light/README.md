@@ -5,4 +5,5 @@
 
 V5 doplňuje světlý nápis SiteOne do černé plochy obou dveří. Ostatní schválená grafika V4 i spec mapa jsou zachované. Samostatný decals soubor nepřidávejte. Varianta Sim-Stamped Number.
 
-Aktuální editovatelné zdroje jsou v lokálním exportu. GitHub archiv sources-psd.zip zůstává ve verzi V4. preview.png je aktuální UV textura; studiové ilustrace a katalog předcházejí této verzi.
+
+Aktuální archiv `sources-psd.zip` obsahuje editovatelný paint PSD, materiálový PSD, zdrojovou spec mapu, paint a decals vrstvy i údaje o této verzi.

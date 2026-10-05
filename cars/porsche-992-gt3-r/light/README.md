@@ -13,4 +13,5 @@ Světlý styl SiteOne přizpůsobený liniím a UV Porsche. Aktuální loga bez 
 
 ## Pracovní zdroje
 
-GitHub archiv sources-psd.zip zůstává ve starší verzi. Aktuální editovatelné V3 zdroje jsou zachované v lokálním exportu.
+
+Aktuální archiv `sources-psd.zip` obsahuje editovatelný paint PSD, materiálový PSD, zdrojovou spec mapu, paint a decals vrstvy i údaje o této verzi.

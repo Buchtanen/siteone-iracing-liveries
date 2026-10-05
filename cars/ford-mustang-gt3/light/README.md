@@ -5,4 +5,5 @@
 
 V6 doplňuje světlý nápis SiteOne do černé plochy obou dveří. Černou plochu dveří doplňují šedé a červené pásy. Spec mapa odpovídá nové grafice. Samostatný decals soubor nepřidávejte. Varianta Sim-Stamped Number.
 
-Aktuální editovatelné zdroje jsou v lokálním exportu. GitHub archiv sources-psd.zip zůstává ve starší verzi. preview.png je aktuální UV textura; studiové ilustrace a katalog předcházejí této verzi.
+
+Aktuální archiv `sources-psd.zip` obsahuje editovatelný paint PSD, materiálový PSD, zdrojovou spec mapu, paint a decals vrstvy i údaje o této verzi.

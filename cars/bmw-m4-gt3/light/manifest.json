@@ -13,5 +13,7 @@
   "sha256": {
     "paint.tga": "9eb3a5eca166f406e20dbd75b79d7f93e05f33cac965ccbf426480f8cef83270",
     "spec.mip": "6c7e6f1dca9f84de867dcd5d026d1eace399507dabbe68af1dd30251da4dfaec"
-  }
+  },
+  "sources_current": true,
+  "sources_sha256": "362cfbc25c8613aba7d1eb77ff12d83daccd8893ca47a101cc6e256054cc3274"
 }

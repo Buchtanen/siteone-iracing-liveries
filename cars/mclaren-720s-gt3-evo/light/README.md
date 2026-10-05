@@ -13,4 +13,5 @@ Světlý styl SiteOne přizpůsobený liniím a UV McLarenu 720S GT3 EVO. Aktuá
 
 ## Pracovní zdroje
 
-GitHub archiv sources-psd.zip zůstává ve starší verzi. Aktuální editovatelné V7 zdroje jsou zachované v lokálním exportu.
+
+Aktuální archiv `sources-psd.zip` obsahuje editovatelný paint PSD, materiálový PSD, zdrojovou spec mapu, paint a decals vrstvy i údaje o této verzi.

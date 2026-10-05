@@ -37,7 +37,7 @@ GitHub slouží jako archiv souborů a pracovních zdrojů. Pro běžné týmov�
 ### Ford Mustang GT3
 
 - **Dark**: [paint TGA](cars/ford-mustang-gt3/dark/paint.tga) · [spec MIP](cars/ford-mustang-gt3/dark/spec.mip) · [layered PSD sources ZIP](cars/ford-mustang-gt3/dark/sources-psd.zip)
-- **Light V6 — approved 5 October 2026**: [paint TGA including logos](cars/ford-mustang-gt3/light/paint.tga) · [spec MIP](cars/ford-mustang-gt3/light/spec.mip) · [older PSD sources ZIP](cars/ford-mustang-gt3/light/sources-psd.zip) · [upload guide and version notes](cars/ford-mustang-gt3/light/README.md)
+- **Light V6 — approved 5 October 2026**: [paint TGA including logos](cars/ford-mustang-gt3/light/paint.tga) · [spec MIP](cars/ford-mustang-gt3/light/spec.mip) · [current layered PSD sources ZIP](cars/ford-mustang-gt3/light/sources-psd.zip) · [upload guide and version notes](cars/ford-mustang-gt3/light/README.md)
 
 ### Radical SR10
 
@@ -47,17 +47,17 @@ GitHub slouží jako archiv souborů a pracovních zdrojů. Pro běžné týmov�
 ### BMW M4 GT3 EVO
 
 - **Dark**: [paint TGA](cars/bmw-m4-gt3/dark/paint.tga) · [spec MIP](cars/bmw-m4-gt3/dark/spec.mip) · [layered PSD sources ZIP](cars/bmw-m4-gt3/dark/sources-psd.zip)
-- **Light V5 — approved 5 October 2026**: [paint TGA including logos](cars/bmw-m4-gt3/light/paint.tga) · [spec MIP](cars/bmw-m4-gt3/light/spec.mip) · [older V4 PSD sources ZIP](cars/bmw-m4-gt3/light/sources-psd.zip) · [upload guide and version notes](cars/bmw-m4-gt3/light/README.md)
+- **Light V5 — approved 5 October 2026**: [paint TGA including logos](cars/bmw-m4-gt3/light/paint.tga) · [spec MIP](cars/bmw-m4-gt3/light/spec.mip) · [current layered PSD sources ZIP](cars/bmw-m4-gt3/light/sources-psd.zip) · [upload guide and version notes](cars/bmw-m4-gt3/light/README.md)
 
 ### Porsche 911 GT3 R (992)
 
 - **Dark**: [paint TGA](cars/porsche-992-gt3-r/dark/paint.tga) · [spec MIP](cars/porsche-992-gt3-r/dark/spec.mip) · [layered PSD sources ZIP](cars/porsche-992-gt3-r/dark/sources-psd.zip)
-- **Light V3 — approved 5 October 2026**: [paint TGA including logos](cars/porsche-992-gt3-r/light/paint.tga) · [spec MIP](cars/porsche-992-gt3-r/light/spec.mip) · [version and upload guide](cars/porsche-992-gt3-r/light/README.md) · [older PSD source archive](cars/porsche-992-gt3-r/light/sources-psd.zip)
+- **Light V3 — approved 5 October 2026**: [paint TGA including logos](cars/porsche-992-gt3-r/light/paint.tga) · [spec MIP](cars/porsche-992-gt3-r/light/spec.mip) · [version and upload guide](cars/porsche-992-gt3-r/light/README.md) · [current layered PSD sources ZIP](cars/porsche-992-gt3-r/light/sources-psd.zip)
 
 ### McLaren 720S GT3 EVO
 
 - **Dark**: [paint TGA](cars/mclaren-720s-gt3-evo/dark/paint.tga) · [spec MIP](cars/mclaren-720s-gt3-evo/dark/spec.mip) · [layered PSD sources ZIP](cars/mclaren-720s-gt3-evo/dark/sources-psd.zip)
-- **Light V7 — approved 5 October 2026**: [paint TGA including logos](cars/mclaren-720s-gt3-evo/light/paint.tga) · [spec MIP](cars/mclaren-720s-gt3-evo/light/spec.mip) · [version and upload guide](cars/mclaren-720s-gt3-evo/light/README.md) · [older PSD source archive](cars/mclaren-720s-gt3-evo/light/sources-psd.zip)
+- **Light V7 — approved 5 October 2026**: [paint TGA including logos](cars/mclaren-720s-gt3-evo/light/paint.tga) · [spec MIP](cars/mclaren-720s-gt3-evo/light/spec.mip) · [version and upload guide](cars/mclaren-720s-gt3-evo/light/README.md) · [current layered PSD sources ZIP](cars/mclaren-720s-gt3-evo/light/sources-psd.zip)
 - [56 isolated UV areas](cars/mclaren-720s-gt3-evo/UV_Parts_Map.png) · [Seams and orientation](cars/mclaren-720s-gt3-evo/UV_Seams_and_Orientation.txt)
 
 ## Driver gear
