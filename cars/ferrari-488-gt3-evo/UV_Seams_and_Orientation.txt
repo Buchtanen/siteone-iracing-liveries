@@ -1,0 +1,37 @@
+FERRARI 488 GT3 EVO 2020 — MAPOVÁNÍ ŠABLONY
+
+Zdroj: 144_template_FEVO.zip / Ferrari EVO GT3.psd, 2048 × 2048.
+Model potvrzen v iRacing Paint Shopu. Označení 448 v zadání odpovídá zde použitému 488 Evo.
+
+VRSTVY
+Wire: bílé vnitřní hrany, zelené obrysy oddělených UV ostrovů. Pouze pracovní vodítko, neexportovat.
+Mask: pozadí mimo díly, neexportovat.
+Car_decal: karbon, oficiální rezervy čísel, emblémy a původní windshield branding; pro nový paint zachovat hardware a rezervy, windshield nahradit SiteOne.
+Car_Mandatory: vodítka a pevné prvky; neplést s barvitelnou grafikou.
+Custom Spec Map: oddělené R metallic / G roughness / B clearcoat kanály.
+
+OVĚŘENO ZEPŘEDU V PAINT SHOPU
+31: přední nárazník, střed přibližně x650; boky se rozvíjejí vlevo a vpravo.
+129: hlavní kapota; přední hrana vlevo v UV, horní/spodní půlka odpovídá stranám vozu.
+153 a 156: plochy v otvoru kapoty.
+77 a 195: souvislé boky. Předek vlevo v UV; horní bok má text otočený 180°, dolní 0°. Převod y druhého boku přibližně 2548-y, použít přesnou vlastní masku.
+125: střecha a okolí motorového krytu.
+136: pás nad čelním sklem, nápis otočený podle kapoty.
+
+ŠVY A ZÁSADY
+Bok–nárazník a bok–kapota jsou odlišné ostrovy, nelze spojovat pouze stejnou UV souřadnicí. Konce pásů zakončit v bílém podkladu, dokud není konkrétní spoj ověřen.
+Dveře a zadní blatník sdílejí velký boční ostrov: podélné pásy lze kreslit souvisle v masce 77/195.
+Okna jsou samostatné ostrovy, do masek boků nepatří.
+Antialiasing grafiky ve vyšším rozlišení, pouze maskované vrstvy. Bleed 4 px je omezen sousedními ostrovy.
+Malé logo a lokální potlačení patternu musí mít společnou polohu a přesouvat se společně.
+Nápisy na druhém boku renderovat znovu, ne zrcadlit obraz textu.
+
+OVĚŘENO ZEZADU V PAINT SHOPU
+108: zadní fasáda; střed vozu v UV y1274, nápisy otočené 90 stupňů.
+2: hlavní plocha křídla, dlouhá osa v UV svisle.
+3 a 28: vnější bočnice křídla potvrzené barevnou diagnostikou.
+
+ZBÝVÁ OVĚŘIT
+234 spodní zadní díl, 11 spodní plocha křídla a vnitřní bočnice 37/43 jsou zatím identifikovány podle UV tvaru.
+Konkrétní polohy log a návaznosti kresby vyžadují kontrolu první běžné verze na modelu.
+

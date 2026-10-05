@@ -1,0 +1,20 @@
+{
+  "car": "Ferrari 488 GT3 Evo 2020",
+  "version": "Light V4",
+  "size": [
+    2048,
+    2048
+  ],
+  "PSD_matches_TGA": true,
+  "separate_base_and_decals": true,
+  "approved_for_export_by_user": true,
+  "spec_source_matches_live": true,
+  "decals_included_in_paint": true,
+  "paint_bits": 24,
+  "sources_current": true,
+  "sha256": {
+    "paint.tga": "8debb7ba642b3c5099707ab4ce4680d08c2294e348a6ec0b3590166e433ae15d",
+    "spec.mip": "0dead4c3bad9608144a9dca2d592179f73734d05af68c41a4892c279b981fc76",
+    "sources-psd.zip": "d252226b08ba62fbc337dfeb1184d61f922a15225865aedf710971fdb9fadff1"
+  }
+}

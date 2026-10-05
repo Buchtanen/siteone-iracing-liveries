@@ -28,5 +28,10 @@
     "slug": "mclaren-720s-gt3-evo",
     "name": "McLaren 720S GT3 EVO",
     "game_folder": "mclaren720sgt3"
+  },
+  {
+    "slug": "ferrari-488-gt3-evo",
+    "name": "Ferrari 488 GT3 Evo 2020",
+    "game_folder": "ferrarievogt3"
   }
 ]

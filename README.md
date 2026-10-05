@@ -60,6 +60,11 @@ GitHub slouží jako archiv souborů a pracovních zdrojů. Pro běžné týmov�
 - **Light V7 — approved 5 October 2026**: [paint TGA including logos](cars/mclaren-720s-gt3-evo/light/paint.tga) · [spec MIP](cars/mclaren-720s-gt3-evo/light/spec.mip) · [version and upload guide](cars/mclaren-720s-gt3-evo/light/README.md) · [current layered PSD sources ZIP](cars/mclaren-720s-gt3-evo/light/sources-psd.zip)
 - [56 isolated UV areas](cars/mclaren-720s-gt3-evo/UV_Parts_Map.png) · [Seams and orientation](cars/mclaren-720s-gt3-evo/UV_Seams_and_Orientation.txt)
 
+### Ferrari 488 GT3 Evo 2020
+
+- **Light V4 — approved 6 October 2026**: [paint TGA including logos](cars/ferrari-488-gt3-evo/light/paint.tga) · [spec MIP](cars/ferrari-488-gt3-evo/light/spec.mip) · [current layered PSD sources ZIP](cars/ferrari-488-gt3-evo/light/sources-psd.zip) · [upload guide](cars/ferrari-488-gt3-evo/light/README.md)
+- [UV parts](cars/ferrari-488-gt3-evo/UV_Parts_Map.png) · [Seams and orientation](cars/ferrari-488-gt3-evo/UV_Seams_and_Orientation.txt)
+
 ## Driver gear
 
 **[Instalace helmy a kombinézy do Trading Paints pro účet Free](gear/INSTALL_CZ.md)** - stažení TGA, vlastní přiřazení, synchronizace a rozdíly Free / Pro.
