@@ -1,0 +1,18 @@
+{
+  "car": "Porsche 911 GT3 R (992)",
+  "variant": "Light",
+  "version": "V3",
+  "approved_for_export_by_user": true,
+  "date": "2026-10-05",
+  "size": [
+    2048,
+    2048
+  ],
+  "paint_bits": 24,
+  "decals_included_in_paint": true,
+  "spec_generated_by": "iRacing",
+  "sha256": {
+    "paint.tga": "773fae813752db8ff4ff59ec954169efe5933b67c5728d80450b9094fcb8ac5e",
+    "spec.mip": "0edfabf24239d0e32824289f197dd91a5d584fe7e66fc2864f2e5416e1d6af07"
+  }
+}

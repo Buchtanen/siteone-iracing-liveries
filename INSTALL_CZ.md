@@ -79,3 +79,8 @@ Schválený [paint.tga](cars/bmw-m4-gt3/light/paint.tga) obsahuje také všechna
 ### Ford Mustang GT3 Light V5 — 5. 10. 2026
 
 [Paint.tga](cars/ford-mustang-gt3/light/paint.tga) obsahuje všechna loga a nápisy. Nahrajte jej spolu s [odpovídající spec.mip](cars/ford-mustang-gt3/light/spec.mip). Samostatný decals soubor nepřidávejte. [Podrobnosti V5 a pracovní zdroje](cars/ford-mustang-gt3/light/README.md).
+
+
+### Porsche 911 GT3 R (992) Light V3 — 5. 10. 2026
+
+[Paint.tga](cars/porsche-992-gt3-r/light/paint.tga) obsahuje všechna loga a nápisy. Nahrajte jej spolu s [spec.mip](cars/porsche-992-gt3-r/light/spec.mip). Samostatný decals soubor nepřidávejte. [Podrobnosti verze](cars/porsche-992-gt3-r/light/README.md).

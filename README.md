@@ -52,7 +52,7 @@ GitHub slouží jako archiv souborů a pracovních zdrojů. Pro běžné týmov�
 ### Porsche 911 GT3 R (992)
 
 - **Dark**: [paint TGA](cars/porsche-992-gt3-r/dark/paint.tga) · [spec MIP](cars/porsche-992-gt3-r/dark/spec.mip) · [layered PSD sources ZIP](cars/porsche-992-gt3-r/dark/sources-psd.zip)
-- **Light**: [paint TGA](cars/porsche-992-gt3-r/light/paint.tga) · [spec MIP](cars/porsche-992-gt3-r/light/spec.mip) · [layered PSD sources ZIP](cars/porsche-992-gt3-r/light/sources-psd.zip)
+- **Light V3 — approved 5 October 2026**: [paint TGA including logos](cars/porsche-992-gt3-r/light/paint.tga) · [spec MIP](cars/porsche-992-gt3-r/light/spec.mip) · [version and upload guide](cars/porsche-992-gt3-r/light/README.md) · [older PSD source archive](cars/porsche-992-gt3-r/light/sources-psd.zip)
 
 ### McLaren 720S GT3 EVO
 
