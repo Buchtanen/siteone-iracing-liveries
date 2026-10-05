@@ -1,0 +1,19 @@
+{
+  "car": "Ford Mustang GT3",
+  "variant": "Light",
+  "version": "V5",
+  "approved_for_export_by_user": true,
+  "date": "2026-10-05",
+  "size": [
+    2048,
+    2048
+  ],
+  "paint_mode": "RGB",
+  "paint_bits": 24,
+  "decals_included_in_paint": true,
+  "spec_generated_by": "iRacing",
+  "sha256": {
+    "paint.tga": "e6df46db450f05af024c0ce1f731f4d4afa026bd05df3fe6fc529b841676f3fa",
+    "spec.mip": "7b8e7c4664ab9df42d02bfd142e270c44ae17a11955e7ec8182eca50a869bfd0"
+  }
+}
