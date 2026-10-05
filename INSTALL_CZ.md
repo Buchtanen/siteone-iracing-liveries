@@ -89,3 +89,8 @@ Schválený [paint.tga](cars/bmw-m4-gt3/light/paint.tga) obsahuje také všechna
 ### McLaren 720S GT3 EVO Light V7 — 5. 10. 2026
 
 [Paint.tga](cars/mclaren-720s-gt3-evo/light/paint.tga) obsahuje všechna loga a nápisy. Nahrajte jej spolu s [spec.mip](cars/mclaren-720s-gt3-evo/light/spec.mip). Samostatný decals soubor nepřidávejte. [Podrobnosti verze](cars/mclaren-720s-gt3-evo/light/README.md).
+
+
+### BMW M4 GT3 EVO Light V5
+
+Nové nápisy SiteOne na obou dveřích. Nahrajte paint.tga včetně log a spec.mip ze složky cars/bmw-m4-gt3/light.

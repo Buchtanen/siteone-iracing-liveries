@@ -1,20 +1,17 @@
 {
-  "car": "BMW M4 GT3 / GT3 EVO",
-  "variant": "Light",
-  "version": "V4",
-  "approved_by_user": true,
-  "date": "2026-10-05",
+  "car": "BMW M4 GT3 EVO",
+  "version": "Light V5",
+  "approved_for_export_by_user": true,
+  "decals_included_in_paint": true,
   "size": [
     2048,
     2048
   ],
-  "paint_mode": "RGB",
   "paint_bits": 24,
-  "decals_included_in_paint": true,
-  "spec_generated_by": "iRacing",
-  "spec_same_as_V3": "V4 only changes decal size and placement; decals share underlying material",
+  "change": "Light SiteOne wordmarks on both doors",
+  "spec_unchanged_from": "V4",
   "sha256": {
-    "paint.tga": "42346820200612178252b0e113dba4b0a471f6aaa7a588ff033ba2efefd45944",
+    "paint.tga": "9eb3a5eca166f406e20dbd75b79d7f93e05f33cac965ccbf426480f8cef83270",
     "spec.mip": "6c7e6f1dca9f84de867dcd5d026d1eace399507dabbe68af1dd30251da4dfaec"
   }
 }
