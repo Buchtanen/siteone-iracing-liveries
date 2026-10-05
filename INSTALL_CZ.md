@@ -109,3 +109,8 @@ Finální boční nápisy, grafika a malá loga včetně přesunutého potlačen
 ### Ferrari 488 GT3 Evo 2020 Light V4
 
 Nová adaptace v cars/ferrari-488-gt3-evo/light. Nahrajte paint.tga včetně log a spec.mip. sources-psd.zip obsahuje aktuální editovatelné zdroje V4.
+
+
+### Radical SR10 Light V4
+
+Aktuální adaptace je v cars/radical-sr10/light. Nahrajte paint.tga včetně log a spec.mip. sources-psd.zip obsahuje aktuální PSD a pracovní vrstvy V4.

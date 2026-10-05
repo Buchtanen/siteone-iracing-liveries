@@ -42,7 +42,7 @@ GitHub slouží jako archiv souborů a pracovních zdrojů. Pro běžné týmov�
 ### Radical SR10
 
 - **Dark**: [paint TGA](cars/radical-sr10/dark/paint.tga) · [spec MIP](cars/radical-sr10/dark/spec.mip) · [layered PSD sources ZIP](cars/radical-sr10/dark/sources-psd.zip)
-- **Light**: [paint TGA](cars/radical-sr10/light/paint.tga) · [spec MIP](cars/radical-sr10/light/spec.mip) · [layered PSD sources ZIP](cars/radical-sr10/light/sources-psd.zip)
+- **Light V4 — approved 6 October 2026**: [paint TGA including logos](cars/radical-sr10/light/paint.tga) · [spec MIP](cars/radical-sr10/light/spec.mip) · [layered PSD sources ZIP](cars/radical-sr10/light/sources-psd.zip)
 
 ### BMW M4 GT3 EVO
 

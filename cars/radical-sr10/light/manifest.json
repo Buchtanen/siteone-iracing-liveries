@@ -1,0 +1,19 @@
+{
+  "car": "Radical SR10",
+  "version": "Light V4",
+  "size": [
+    2048,
+    2048
+  ],
+  "PSD_matches_TGA": true,
+  "approved_for_export_by_user": true,
+  "spec_matches_live": true,
+  "decals_included_in_paint": true,
+  "paint_bits": 24,
+  "sources_current": true,
+  "sha256": {
+    "paint.tga": "3929a6c1dd8f7f17719586fc8371d56e6b909e54a2efbd851bd5b2becee35c7a",
+    "spec.mip": "3b3c8138d618b856e40debc374997798eb995a3dafbf0b073d2983867ce3cb9b",
+    "sources-psd.zip": "0eca560a82dcf88a51e56a2958a0b578d892dced701403dee12d8bdd5cfb8ea1"
+  }
+}
