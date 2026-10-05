@@ -9,8 +9,8 @@ Samostatný decals soubor k tomuto exportu nepřidávejte. Vyberte variantu Sim-
 
 Světlý styl McLarenu V78 a BMW V4 je upravený podle linií a UV Mustangu. Obsahuje aktuální loga SiteOne, symboly čtverce s jedničkou na kapotě, zadních bocích a bočnicích křídla; claim pod čelním sklem a na horní části zádě. Zadní claim je posunutý výš vůči ohybu karoserie. Přední nápis FORD MUSTANG GT3 nahradila šedá a červená grafika. Materiálová mapa byla odpovídajícím způsobem aktualizována.
 
-## Pracovní zdroje
+## Source archive
 
-`sources-psd.zip` obsahuje paint-working.psd s oddělenými vrstvami a skrytým wireframe, materials.psd, spec-source.tga, pracovní základ a transparentní decals a údaje o verzi. Oddělené pracovní TGA nejsou další soubory pro upload.
+The GitHub sources-psd.zip remains at the earlier version and does not match V5. Updated V5 editable sources are preserved in the local export.
 
-`preview.png` ukazuje aktuální UV texturu. Starší studiová ilustrace Mustangu a PDF katalog předcházejí této verzi.
+preview.png shows the current V5 UV texture. Older studio illustrations and the PDF catalog predate V5.
