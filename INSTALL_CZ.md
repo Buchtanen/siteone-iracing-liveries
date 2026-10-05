@@ -94,3 +94,8 @@ Schválený [paint.tga](cars/bmw-m4-gt3/light/paint.tga) obsahuje také všechna
 ### BMW M4 GT3 EVO Light V5
 
 Nové nápisy SiteOne na obou dveřích. Nahrajte paint.tga včetně log a spec.mip ze složky cars/bmw-m4-gt3/light.
+
+
+### Ford Mustang GT3 Light V6
+
+Nové nápisy SiteOne na obou dveřích. Nahrajte paint.tga včetně log a spec.mip ze složky cars/ford-mustang-gt3/light.

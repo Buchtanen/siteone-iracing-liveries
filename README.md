@@ -37,7 +37,7 @@ GitHub slouží jako archiv souborů a pracovních zdrojů. Pro běžné týmov�
 ### Ford Mustang GT3
 
 - **Dark**: [paint TGA](cars/ford-mustang-gt3/dark/paint.tga) · [spec MIP](cars/ford-mustang-gt3/dark/spec.mip) · [layered PSD sources ZIP](cars/ford-mustang-gt3/dark/sources-psd.zip)
-- **Light V5 — approved 5 October 2026**: [paint TGA including logos](cars/ford-mustang-gt3/light/paint.tga) · [spec MIP](cars/ford-mustang-gt3/light/spec.mip) · [layered PSD sources ZIP](cars/ford-mustang-gt3/light/sources-psd.zip) · [upload guide and version notes](cars/ford-mustang-gt3/light/README.md)
+- **Light V6 — approved 5 October 2026**: [paint TGA including logos](cars/ford-mustang-gt3/light/paint.tga) · [spec MIP](cars/ford-mustang-gt3/light/spec.mip) · [older PSD sources ZIP](cars/ford-mustang-gt3/light/sources-psd.zip) · [upload guide and version notes](cars/ford-mustang-gt3/light/README.md)
 
 ### Radical SR10
 
@@ -92,4 +92,4 @@ Latest team equipment: helmet v13 and Crew Suit v19 use the current SiteOne iden
 
 BMW M4 GT3 EVO Light V5 adds SiteOne wordmarks on both doors and adapts the approved McLaren V78 identity to BMW body lines. All logos and lettering are included in paint.tga; upload it with spec.mip. The BMW Light studio illustration and PDF catalog predate V4.
 
-Ford Mustang GT3 Light V5 includes all logos and lettering in paint.tga; upload it with spec.mip. The Mustang Light studio illustration and PDF catalog predate V5.
+Ford Mustang GT3 Light V6 adds door wordmarks and gray/red graphics and includes all logos and lettering in paint.tga; upload it with spec.mip. The Mustang Light studio illustration and PDF catalog predate V5.

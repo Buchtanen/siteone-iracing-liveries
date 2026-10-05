@@ -1,16 +1,8 @@
-# Ford Mustang GT3 — SiteOne Light V5
+# Ford Mustang GT3 — SiteOne Light V6
 
-Verze schválená k exportu 5. 10. 2026. Pro Trading Paints použijte dva soubory:
-
-- **paint.tga** — celý paint včetně patternu, log a nápisů, 2048 × 2048, RGB 24-bit RLE.
+- **paint.tga** — kompletní paint včetně log a nápisů, 2048 × 2048, RGB 24-bit.
 - **spec.mip** — odpovídající materiálová mapa vytvořená iRacingem.
 
-Samostatný decals soubor k tomuto exportu nepřidávejte. Vyberte variantu Sim-Stamped Number; rezervovaná pole jsou bez závodních čísel.
+V6 doplňuje světlý nápis SiteOne do černé plochy obou dveří. Černou plochu dveří doplňují šedé a červené pásy. Spec mapa odpovídá nové grafice. Samostatný decals soubor nepřidávejte. Varianta Sim-Stamped Number.
 
-Světlý styl McLarenu V78 a BMW V4 je upravený podle linií a UV Mustangu. Obsahuje aktuální loga SiteOne, symboly čtverce s jedničkou na kapotě, zadních bocích a bočnicích křídla; claim pod čelním sklem a na horní části zádě. Zadní claim je posunutý výš vůči ohybu karoserie. Přední nápis FORD MUSTANG GT3 nahradila šedá a červená grafika. Materiálová mapa byla odpovídajícím způsobem aktualizována.
-
-## Source archive
-
-The GitHub sources-psd.zip remains at the earlier version and does not match V5. Updated V5 editable sources are preserved in the local export.
-
-preview.png shows the current V5 UV texture. Older studio illustrations and the PDF catalog predate V5.
+Aktuální editovatelné zdroje jsou v lokálním exportu. GitHub archiv sources-psd.zip zůstává ve starší verzi. preview.png je aktuální UV textura; studiové ilustrace a katalog předcházejí této verzi.

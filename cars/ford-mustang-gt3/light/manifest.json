@@ -1,19 +1,17 @@
 {
   "car": "Ford Mustang GT3",
-  "variant": "Light",
-  "version": "V5",
+  "version": "Light V6",
   "approved_for_export_by_user": true,
-  "date": "2026-10-05",
+  "decals_included_in_paint": true,
   "size": [
     2048,
     2048
   ],
-  "paint_mode": "RGB",
   "paint_bits": 24,
-  "decals_included_in_paint": true,
-  "spec_generated_by": "iRacing",
+  "change": "Light SiteOne wordmarks and gray/red graphics on both doors",
+  "spec_updated_for_door_graphics": true,
   "sha256": {
-    "paint.tga": "e6df46db450f05af024c0ce1f731f4d4afa026bd05df3fe6fc529b841676f3fa",
-    "spec.mip": "7b8e7c4664ab9df42d02bfd142e270c44ae17a11955e7ec8182eca50a869bfd0"
+    "paint.tga": "b108df040e433f3367032dbbc8ac58ea32863d086649c701c9dde9a05b3197fc",
+    "spec.mip": "1dfb37fbe1831e822cf18c57459cc6ee17f6886c810365dbf876ae981943e0fa"
   }
 }
