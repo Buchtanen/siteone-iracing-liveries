@@ -1,21 +1,36 @@
 # SiteOne.cz | iRacing Liveries
 
-Six cars, twelve finishes, plus matching helmet and driver suit. One visual identity.
+Seven cars, current light liveries and archived dark finishes, plus matching helmet and driver suit.
 
 Dark graphite and light pearl SiteOne liveries with layered PSD sources and matching material maps.
 
 ## GT3 catalog / Katalog pro tým
 
-**[Stáhnout český katalog PDF](https://raw.githubusercontent.com/Buchtanen/siteone-iracing-liveries/main/catalog/SiteOne_Racing_GT3_Catalog_CZ.pdf)** - 20 stran, deset studiových preview (osm aut, týmová helma a Crew Suit), instalace z kolekce i GitHubu včetně TGA a MIP.
+**[Stáhnout český katalog PDF](https://raw.githubusercontent.com/Buchtanen/siteone-iracing-liveries/main/catalog/SiteOne_Racing_GT3_Catalog_CZ.pdf)** - 17 stran, pět aktuálních světlých GT3, týmová výbava a návod k instalaci TGA + MIP. Aktualizace 6. 10. 2026.
 
-Katalog představuje BMW M4 GT3 EVO, Ford Mustang GT3, Porsche 911 GT3 R (992) a McLaren 720S GT3 EVO, každý v tmavé a světlé variantě. Archiv laků níže obsahuje také McLaren 570S GT4 a Radical SR10.
+Abecední pořadí: BMW M4 GT3 EVO, Ferrari 488 GT3 Evo, Ford Mustang GT3, McLaren 720S GT3 EVO, Porsche 911 GT3 R (992).
 
-| BMW M4 GT3 EVO | Ford Mustang GT3 | Porsche 911 GT3 R (992) | McLaren 720S GT3 EVO |
-| --- | --- | --- | --- |
-| ![BMW Dark](previews/BMW_Dark_Studio.png) | ![Mustang Dark](previews/Mustang_Dark_Studio.png) | ![Porsche Dark](previews/Porsche_Dark_Studio.png) | ![McLaren Dark](previews/McLaren_Dark_Studio.png) |
-| ![BMW Light](previews/BMW_Light_Studio.png) | ![Mustang Light](previews/Mustang_Light_Studio.png) | ![Porsche Light](previews/Porsche_Light_Studio.png) | ![McLaren Light](previews/McLaren_Light_Studio.png) |
+### BMW M4 GT3 EVO
 
-[Samostatná preview PNG](previews/) jsou studiové ilustrace překreslené podle iRacingu. Přesnou podobu ve hře určují skutečné textury TGA a materiálové mapy MIP.
+![BMW M4 GT3 EVO Light](previews/BMW_Light_Studio.png)
+
+### Ferrari 488 GT3 Evo
+
+![Ferrari 488 GT3 Evo Light](previews/Ferrari_Light_Studio.png)
+
+### Ford Mustang GT3
+
+![Ford Mustang GT3 Light](previews/Mustang_Light_Studio.png)
+
+### McLaren 720S GT3 EVO
+
+![McLaren 720S GT3 EVO Light](previews/McLaren_Light_Studio.png)
+
+### Porsche 911 GT3 R (992)
+
+![Porsche 911 GT3 R (992) Light](previews/Porsche_Light_Studio.png)
+
+Studiové ilustrace vycházejí z aktuálních paintů v iRacingu a mají označení modelu na zadní stěně v kouři. Přesnou herní podobu určují TGA a MIP. Archiv níže zachovává také starší varianty, McLaren 570S GT4 a Radical SR10.
 
 ## Jak jezdit týmové laky
 

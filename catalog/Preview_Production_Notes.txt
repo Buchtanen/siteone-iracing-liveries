@@ -1,29 +1,17 @@
-SITEONE RACING - GT3 PREVIEW PACK
+SITEONE RACING - LIGHT GT3 CATALOG / 6. 10. 2026
 
-Obsah: český 20stránkový katalog PDF a deset samostatných studiových PNG.
-BMW M4 GT3 EVO, Ford Mustang GT3, Porsche 911 GT3 R (992), McLaren 720S GT3 EVO: Dark + Light.
-Katalog obsahuje studiové rendery týmové helmy a Crew Suit (tři postavy, jeden jezdec s helmou).
-Kombinéza nemá McLaren ani GT4, přes prsa nese firemní claim. Týmová helma nemá osobní jméno.
-Instalace zahrnuje kolekci, stažení z GitHubu, nahrání TGA a MIP do vlastního účtu Trading Paints a výbavu pro Free účet.
+17 stran. Pouze světlé varianty pěti GT3, abecedně:
+BMW M4 GT3 EVO V5, Ferrari 488 GT3 Evo V4, Ford Mustang GT3 V6,
+McLaren 720S GT3 EVO V7, Porsche 911 GT3 R (992) V9.
 
-Kolekce Trading Paints:
-https://www.tradingpaints.com/collections/view/356562/SiteOne-Racing
-Laky, materiálové mapy a pracovní PSD:
-https://github.com/Buchtanen/siteone-iracing-liveries
+Pět nových studiových vizualizací podle aktuálních referenčních pohledů
+uživatelem nastavených v iRacing Paint Shopu 6. 10. 2026.
+Grafitové studio, odraz na podlaze, červený horizont a částečně průhledné
+3D označení výrobce a modelu v kouři na zadní stěně.
+Vytvořeno nástrojem imagegen; jsou to studiové ilustrace, ne doslovné
+herní screenshoty. Přesnou podobu určují TGA a MIP.
 
-Produkce vizualizací: vestavěné imagegen, překreslení podle skutečných
-referenčních pohledů z iRacing Paint Shopu. Jde o studiové ilustrace;
-přesnou herní podobu určují soubory TGA a MIP. Samotné herní textury
-nebyly při tvorbě katalogu nahrazeny těmito ilustracemi.
-
-Shrnutí zadání pro ilustrace (nikoli doslovný přepis jednotlivých promptů):
-Věrně zachovat model a livery referenčního auta. Celý vůz v předním
-tříčtvrtečním pohledu mírně shora, příď vpravo. Prémiové grafitové/stříbrné
-studio, gradientní pozadí, jemný červený horizont, lesklá podlaha.
-Velký název modelu za vozem, značka nahoře, SiteOne.cz / RACING vlevo,
-Dark/Light Edition dole. Zachovat červená zrcátka, jedničku s patkou,
-pattern, lemy a branding podle skutečného příslušného laku. Claim:
-Design. Development. Digital transformation.
-BMW: M4 GT3; Ford: MUSTANG GT3; Porsche: 911 GT3 R (992); McLaren: 720S GT3 EVO.
-McLaren: horní logo křídla opraveno o 180° v laku i obou ilustracích.
-Tmavá a světlá varianta čerpají z vlastního referenčního pohledu.
+Nové studiové rendery helmy V13 a kombinézy V19 podle aktuálních
+referencí z Paint Shopu a finálních textur. Odkazy míří na aktuální zdroje.
+Instalační návod: pouze light, paint obsahuje loga, samostatná spec.mip.
+Aktualizováno číslování, křížové odkazy a přidáno Ferrari.
