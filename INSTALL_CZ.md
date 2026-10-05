@@ -99,3 +99,8 @@ Nové nápisy SiteOne na obou dveřích. Nahrajte paint.tga včetně log a spec.
 ### Ford Mustang GT3 Light V6
 
 Nové nápisy SiteOne na obou dveřích. Nahrajte paint.tga včetně log a spec.mip ze složky cars/ford-mustang-gt3/light.
+
+
+### Porsche 911 GT3 R (992) Light V9
+
+Finální boční nápisy, grafika a malá loga včetně přesunutého potlačení patternu. Aktuální paint.tga, spec.mip i editovatelné sources-psd.zip jsou v cars/porsche-992-gt3-r/light.

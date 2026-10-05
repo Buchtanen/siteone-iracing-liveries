@@ -1,17 +1,11 @@
-# Porsche 911 GT3 R (992) — SiteOne Light V3
+# Porsche 911 GT3 R (992) — SiteOne Light V9
 
-Verze schválená k exportu 5. 10. 2026. Pro Trading Paints použijte:
-
-- **paint.tga** — celý paint včetně patternu, log a nápisů, 2048 × 2048, RGB 24-bit RLE.
+- **paint.tga** — celý paint včetně patternu, log a nápisů, 2048 × 2048, RGB 24-bit.
 - **spec.mip** — odpovídající materiálová mapa vytvořená iRacingem.
+- **sources-psd.zip** — aktuální editovatelné PSD a všechny pracovní vrstvy V9.
 
-Samostatný decals soubor nepřidávejte. Varianta Sim-Stamped Number, bez vlastních závodních čísel.
+Na obou dveřích je světlý nápis SiteOne v konečné výšce a šedá s červenou grafikou. Malá loga jsou nad zadními koly; potlačení patternu je přesunuté pod ně. Přední aerodynamická křidélka nereagují na paint texturu, zůstávají původní.
 
-Světlý styl SiteOne přizpůsobený liniím a UV Porsche. Aktuální loga bez .cz, správný pattern jedniček, tmavé spodní boky s vytracením dozadu. Světlá malá loga jsou v černých plochách dveří na obou stranách. Na zádi zůstává jen claim. Kapota má SiteOne a symbol čtverce s jedničkou. Materiálová mapa neobsahuje staré otisky log.
+Pro Trading Paints nahrajte paint.tga a spec.mip. Samostatný decals soubor nepřidávejte. Varianta Sim-Stamped Number.
 
-`preview.png` je aktuální UV textura. Starší studiové ilustrace a PDF katalog předcházejí V3.
-
-## Pracovní zdroje
-
-
-Aktuální archiv `sources-psd.zip` obsahuje editovatelný paint PSD, materiálový PSD, zdrojovou spec mapu, paint a decals vrstvy i údaje o této verzi.
+preview.png je aktuální UV textura. Starší studiové ilustrace a katalog předcházejí této verzi.

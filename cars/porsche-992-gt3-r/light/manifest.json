@@ -1,20 +1,23 @@
 {
   "car": "Porsche 911 GT3 R (992)",
-  "variant": "Light",
-  "version": "V3",
+  "version": "Light V9",
   "approved_for_export_by_user": true,
-  "date": "2026-10-05",
+  "decals_included_in_paint": true,
   "size": [
     2048,
     2048
   ],
   "paint_bits": 24,
-  "decals_included_in_paint": true,
-  "spec_generated_by": "iRacing",
-  "sha256": {
-    "paint.tga": "773fae813752db8ff4ff59ec954169efe5933b67c5728d80450b9094fcb8ac5e",
-    "spec.mip": "0edfabf24239d0e32824289f197dd91a5d584fe7e66fc2864f2e5416e1d6af07"
-  },
   "sources_current": true,
-  "sources_sha256": "362db54a15fab1c4f28a2faf27772d40153dff66ad8592062c11bea3b3ed2bfa"
+  "changes": [
+    "Door SiteOne wordmarks at final height",
+    "Gray and red door graphics",
+    "Quarter symbols repositioned with matching pattern suppression",
+    "Front canards tested: not paintable"
+  ],
+  "sha256": {
+    "paint.tga": "35532baa38c4ff0c3acbbb288140b1260cc283df951b8348211d212b42d0bce1",
+    "spec.mip": "5944b401dc12526dcca9c244d83d0ce03b82bbaf43efbf8965716240dbe0fb7f"
+  },
+  "sources_sha256": "8268227129b1fed8a37a209e08c06bc26d2f3a9e45efad9d92a71bb45a486a1f"
 }
