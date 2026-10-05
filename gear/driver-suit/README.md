@@ -1,17 +1,13 @@
-# SiteOne Crew Suit - týmová kombinéza 2048, verze 5
+# SiteOne Crew Suit — V19
 
-Hotová textura: 2048 × 2048, TGA RGB 24 bit, RLE. Původní UV rozložení zůstává stejné.
+Aktuální export z 5. října 2026: 2048 × 2048, RGB 24bit TGA s RLE kompresí.
 
-Nově vykreslené jsou nápisy, červenobílé plochy a pattern jedniček s patičkou. Původní stínování a textura látky pochází z podkladu 1024; nejde o nově nasnímanou textilii.
+- Nová loga SiteOne bez `.cz` a symbol čtverce s jedničkou na zádech.
+- Výška a zakřivení SiteOne na pásku jsou zachované v odsouhlasené poloze.
+- SPARCO na pásku má odsouhlasený sklon 8°.
+- Obnovené boty s podtrženým logem SPARCO na vnějším panelu a opravenou orientací.
+- Jedničky na obou rukávech směřují vrškem k rameni a patičkou k ruce.
 
-PSD obsahuje samostatné rastrové vrstvy ve 2048 pro nápisy a grafiku, skrytý wire a skrytou původní verzi. Text v PSD není živá textová vrstva. SVG obsahuje vektorové barevné plochy a jedničky s vloženými maskami; neobsahuje nápisy ani podklad látky. Masky jednotlivých dílů jsou v adresáři masks.
+`paint.tga` nahrajte v Trading Paints jako kombinézu. Pro místní kontrolu soubor pojmenujte `suit_VASE-ID.tga` a vložte do `Documents/iRacing/paint`.
 
-Na každé fyzické nohavici je jeden nápis SiteOne.cz. Osobní jméno je nahrazeno SiteOne. Značky McLaren a 570S GT4 jsou odstraněné. Přes prsa je claim Design. Development. Digital transformation. Epolety a vybavení zachovávají značení Sparco.
-
-Kontrola: nový oblek načten v iRacing Paint Shopu a ověřen v předním tříčtvrtečním pohledu. Zadní strana byla zkontrolována v UV; nové úplné otočení modelu nebylo k dispozici. PSD kompozit je pixelově shodný s TGA. Starší verze je zachována v historii Git a pracovní záloze.
-
-Instalace: v Trading Paints otevřete My Paints a vlastní kombinézu, nahrajte TGA. Pro místní zkoušku použijte Documents/iRacing/paint/suit_VASE-ID.tga. Pokud Paint Shop drží starý náhled, vypněte a znovu zapněte Show Custom Suit. Downloader může lokální zkoušku přepsat svou uloženou verzí.
-
-Pracovní archiv používá běžnou ZIP/Deflate kompresi.
-
-[Hotový TGA](paint.tga) · [Pracovní PSD, geometrie a masky](sources-psd.zip) · [Srovnání](comparison-1024-2048.png) · [Instalace](../INSTALL_CZ.md)
+`sources-psd.zip` obsahuje aktuální vrstvený PSD, UV wire a masky dílů. `preview.png` a `approved-design.png` jsou aktuální UV náhledy. Starší fotografie, seam-check, srovnání rozlišení, studiové rendery a katalog PDF jsou historické reference.

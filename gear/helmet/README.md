@@ -1,11 +1,13 @@
-# SiteOne - týmová helma, verze 9
+# SiteOne Team Helmet — V13
 
-2048 × 2048, RGB 24 bit, TGA RLE. Osobní jméno je odstraněné z obou bočních bílých pruhů. Původní UV, zadní kresba a návaznost švů zůstaly zachované.
+Aktuální export z 5. října 2026: 2048 × 2048, RGB 24bit TGA s RLE kompresí.
 
-- [Hotový TGA](paint.tga)
-- [Pracovní PSD](sources-psd.zip) - aktivní původní vrstvy a samostatná maskovaná oprava bílých pruhů, standardní ZIP/Deflate.
-- [Aktuální UV náhled](preview.png)
-- [Studiové preview](../../previews/Helmet_Studio.png)
-- [Instalace pro vlastní účet Trading Paints](../../INSTALL_CZ.md)
+- Nové logo SiteOne bez `.cz`.
+- Interiér helmy má texturu polstrování.
+- Velký zadní symbol čtverce a jedničky je odstraněný.
+- Pattern používá geometrii jedničky z oficiálního symbolu SiteOne.
+- Upravený spoj bílých ploch vzadu.
 
-Schovaný původní obsah v pracovních vrstvách slouží jako záloha. Viditelná finální kompozice je týmová a nemá osobní jméno. Historické verze zůstávají v historii Git. Studiový render je ilustrační; přesný herní vzhled určuje TGA.
+`paint.tga` nahrajte v Trading Paints jako helmu. Pro místní kontrolu soubor pojmenujte `helmet_VASE-ID.tga` a vložte do `Documents/iRacing/paint`.
+
+`sources-psd.zip` obsahuje aktuální vrstvený PSD, UV wire a mapu zadního spoje. `preview.png` a `approved-design.png` jsou aktuální UV náhledy. Ostatní starší kontrolní obrázky, studiové rendery a katalog PDF jsou historické reference.

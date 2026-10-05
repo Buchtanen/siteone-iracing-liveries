@@ -66,8 +66,8 @@ GitHub slouží jako archiv souborů a pracovních zdrojů. Pro běžné týmov�
 
 The current SiteOne helmet and driver suit use the original iRacing UV templates. The helmet TGA is 2048 × 2048; the suit is redrawn at 2048 × 2048. Each folder includes the 24-bit RLE TGA, layered working PSD in a source ZIP, approved design image, Wire map, and a seam check.
 
-- **Team helmet v9**: [TGA](gear/helmet/paint.tga) · [layered PSD and source files](gear/helmet/sources-psd.zip) · [Wire and seam notes](gear/helmet/README.md)
-- **Crew suit v5**: [TGA](gear/driver-suit/paint.tga) · [layered PSD and source files](gear/driver-suit/sources-psd.zip) · [Wire and seam notes](gear/driver-suit/README.md)
+- **Team helmet v13**: [TGA](gear/helmet/paint.tga) · [layered PSD and source files](gear/helmet/sources-psd.zip) · [Wire and seam notes](gear/helmet/README.md)
+- **Crew suit v19**: [TGA](gear/driver-suit/paint.tga) · [layered PSD and source files](gear/driver-suit/sources-psd.zip) · [Wire and seam notes](gear/driver-suit/README.md)
 
 Both current gear source ZIPs use standard Deflate compression.
 
@@ -88,4 +88,4 @@ Car paints use 2048 × 2048 RGB 24-bit RLE TGA. Helmet uses 2048 × 2048 and sui
 This repository publishes the finished collection only. Original manufacturer template archives and historical drafts are not included. Vehicle and game marks identify the supported models.
 
 
-Latest team equipment: helmet v9 has no personal name; Crew Suit v5 replaces McLaren / 570S GT4 branding with the SiteOne corporate claim. [Installation guide](INSTALL_CZ.md) · [Team equipment studio previews](previews/).
+Latest team equipment: helmet v13 and Crew Suit v19 use the current SiteOne identity. Suit belt logos, outer boot lettering and sleeve pattern direction have been updated. Studio renders and the PDF catalog predate this equipment revision. [Installation guide](INSTALL_CZ.md) · [Team equipment studio previews](previews/).

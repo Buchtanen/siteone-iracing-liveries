@@ -1,14 +1,15 @@
 {
   "asset": "driver-suit",
-  "version": "v5-team-crew-2048",
+  "version": "v19",
+  "release_date": "2026-10-05",
   "resolution": [
     2048,
     2048
   ],
   "files": {
     "approved-design.png": {
-      "bytes": 2949701,
-      "sha256": "9460a599f1fea247d6840376e9e78a2300e4e14cdb4bf734878555dd867c7c4a"
+      "bytes": 2969011,
+      "sha256": "09a026b36c2be6174a3e4bfb1da53d1edd8d907e85449ebcf830aea74c34ead5"
     },
     "comparison-1024-2048.png": {
       "bytes": 407185,
@@ -19,16 +20,16 @@
       "sha256": "4e49f33292b00392cd2d658bac92a49f571a61d60fb656af7e36a8a1d0236b5b"
     },
     "paint.tga": {
-      "bytes": 7507535,
-      "sha256": "e56670b413656db1d14330856b8ff41d6c84737df6ce39f4aafa1ef7a0ce0fe4"
+      "bytes": 7550586,
+      "sha256": "c000591ddb548f9b735d8e7eed1d832e831d1d7286875f4ee094d0c0c99486fe"
     },
     "preview.png": {
-      "bytes": 2949701,
-      "sha256": "9460a599f1fea247d6840376e9e78a2300e4e14cdb4bf734878555dd867c7c4a"
+      "bytes": 2969011,
+      "sha256": "09a026b36c2be6174a3e4bfb1da53d1edd8d907e85449ebcf830aea74c34ead5"
     },
     "README.md": {
-      "bytes": 1754,
-      "sha256": "a40933c9e7634c67116a86514e27b8b1f24b04062e3d01262cb9707ff4f28cf2"
+      "bytes": 901,
+      "sha256": "142780005f954f2c2f0c4130d591fb601f39205f082cfb5280b71bc03667c01f"
     },
     "seam-check.png": {
       "bytes": 350310,
@@ -43,8 +44,8 @@
       "sha256": "3583a42f64522dc39262ecc44d42c4fab4012b9d942bff355a2f1cba5b70fae6"
     },
     "sources-psd.zip": {
-      "bytes": 16675850,
-      "sha256": "4401c42196a170701989f71ac0e0042786e3ead7bc7395afecdbfd39a7ab3178"
+      "bytes": 10143852,
+      "sha256": "227d6864c3f18ee464c01becc59e9912147bc28c5d9ea3ed577c2dfcef65093e"
     },
     "wire-map.png": {
       "bytes": 349058,
