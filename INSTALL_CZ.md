@@ -69,3 +69,8 @@ Pro spec mapy nastavte Shader Quality alespoň Medium a zapněte Shadow Maps. Je
 - [Zobrazení materiálů](https://help.tradingpaints.com/downloader/enabling-custom-spec-maps-in-your-iracing-graphics-options/)
 
 Ověřeno 2. 10. 2026. Studiové rendery v katalogu jsou ilustrační; herní podobu určují TGA a MIP.
+
+
+### BMW M4 GT3 / GT3 EVO Light V4 — 5. 10. 2026
+
+Schválený [paint.tga](cars/bmw-m4-gt3/light/paint.tga) obsahuje také všechna loga a nápisy. Nahrajte jej spolu s [odpovídající spec.mip](cars/bmw-m4-gt3/light/spec.mip). Samostatný decals soubor nepřidávejte. [Podrobnosti V4 a pracovní zdroje](cars/bmw-m4-gt3/light/README.md).
